@@ -1,0 +1,106 @@
+id,sex,birth_year,country,region,departement,city,group,infection_reason,infection_order,infected_by,contact_number,confirmed_date,released_date,deceased_date,status,health,source,comments
+,male,,France,Nouvelle-Aquitaine,Charente-Maritime,,,contact with patient,,Creil patient,,2020-02-28,2020-02-03,,released,,CP ARS Nouvelle-Aquitaine,
+,male,,France,Nouvelle-Aquitaine,Gironde,,,visit to Italy,,,,2020-02-28,,,hospital,good,CP ARS Nouvelle-Aquitaine,
+,female,,France,Nouvelle-Aquitaine,Landes,,,contact with patient,,Creil patient,,2020-02-28,,,hospital,good,CP ARS Nouvelle-Aquitaine,
+,male,,France,Nouvelle-Aquitaine,Pyrénées-Atlantiques,,,visit to Italy,,,,2020-03-03,,,hospital,good,CP ARS Nouvelle-Aquitaine,
+,male,,France,Nouvelle-Aquitaine,Lot-et-Garonne,,Mulhouse religious gathering,visit to Mulhouse religious gathering,,,,2020-03-05,,,home isolation,good,CP ARS Nouvelle-Aquitaine,
+,female,,France,Nouvelle-Aquitaine,Lot-et-Garonne,,Mulhouse religious gathering,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,critical,CP ARS Nouvelle-Aquitaine,
+,female,,France,Nouvelle-Aquitaine,Deux-Sèvres,,,,,,,2020-03-05,,,hospital,good,CP ARS Nouvelle-Aquitaine,
+,male,1968,France,Occitanie,Tarn-et-Garonne,Montauban,Montauban family,contact with person who visited Italy,,,,2020-03-06,,,unknown,good,CP ARS Occitanie,
+,male,1937,France,Occitanie,Tarn-et-Garonne,Montauban,Montauban family,contact with person who visited Italy,,,,2020-03-06,,,unknown,good,CP ARS Occitanie,
+,female,1942,France,Occitanie,Tarn-et-Garonne,Montauban,Montauban family,contact with person who visited Italy,,,,2020-03-06,,,unknown,good,CP ARS Occitanie,
+,female,1960,France,Occitanie,Lot,Cahors,,visit to Egypt,,,,2020-03-06,,,hospital,good,CP ARS Occitanie,
+,male,1989,France,Occitanie,Hérault,Montpellier,Montpellier family,visit to Italy,,,,2020-01-27,,,hospital,good,CP ARS Occitanie,
+,female,1991,France,Occitanie,Hérault,Montpellier,Montpellier family,visit to Italy,,,,2020-02-28,,,hospital,good,CP ARS Occitanie,
+,male,1979,France,Occitanie,Hérault,,,visit to Italy,,,,2020-02-28,2020-03-03,,released,good,CP ARS Occitanie,
+,male ?,2016,France,Occitanie,Hérault,Montpellier,Montpellier family,visit to Italy,,,,2020-03-01,,,hospital,good,CP ARS Occitanie,
+,male,1989,France,Occitanie,Hérault,Montpellier,Montpellier family 2,visit to Italy,,,,2020-03-01,,,hospital,,CP ARS Occitanie,
+,female,1991,France,Occitanie,Hérault,Montpellier,Montpellier family 2,visit to Italy,,,,2020-03-02,,,hospital,good,CP ARS Occitanie,
+,male,1950,France,Occitanie,Gard,Alès,Alès family,unknown,,,,2020-03-03,,,hospital,good,CP ARS Occitanie,
+,female,1951,France,Occitanie,Gard,Alès,Alès family,unknown,,,,2020-03-03,,,hospital,good,CP ARS Occitanie,
+1,male,1952,France,Occitanie,Aveyron,Millau,Millau family,visit to Egypt,,,,2020-03-04,,,hospital,good,CP ARS Occitanie,
+,female,1952,France,Occitanie,Aveyron,Millau,Millau family,visit to Egypt,,,,2020-03-04,,,hospital,good,CP ARS Occitanie,
+,male,1950,France,Occitanie,Hérault,Montpellier,Montpellier family 3,unknown,,,,2020-03-05,,,hospital,good,CP ARS Occitanie,
+,female,1949,France,Occitanie,Hérault,Montpellier,Montpellier family 3,unknown,,,,2020-03-05,,,hospital,good,CP ARS Occitanie,
+,male,1950,France,Occitanie,Haute-Garonne,Muret,,visit to Egypt,,,,2020-03-05,,,hospital,good,CP ARS Occitanie,
+,female,1981,France,Occitanie,Aveyron,,,contact with patient,2,1,,2020-03-05,,,hospital,good,CP ARS Occitanie,
+,male,2006,France,Occitanie,Aveyron,,,contact with patient,2,1,,2020-03-05,,,hospital,good,CP ARS Occitanie,
+,female,1964,France,Occitanie,Hérault,Béziers,,visit to Oise,,,,2020-03-05,,,hospital,good,CP ARS Occitanie,
+,male,1965,France,Hauts-de-France,Oise,,,,,,,2020-02-26,,,hospital,critical,CP ARS Hauts-de-France,
+,male,1959,France,Hauts-de-France,Oise,,,,,,,2020-02-26,,2020-02-26,deceased,deceased,CP ARS Hauts-de-France,
+,,,France,Hauts-de-France,Aisne,,,visit to Italy,,,,2020-03-01,,,,good,CP Préfecture Hauts-de-France,
+,,,France,Hauts-de-France,Aisne,,,visit to Oise,,,,2020-03-02,,,,good,CP Préfecture Hauts-de-France,
+,,,France,Hauts-de-France,Aisne,,,visit to Oise,,,,2020-03-02,,,,good,CP Préfecture Hauts-de-France,
+,,,France,Hauts-de-France,Aisne,,,,,,,2020-04-03,,,hospital,,CP Préfecture Hauts-de-France,
+,,,France,Hauts-de-France,Aisne,,,,,,,2020-04-03,,,hospital,,CP Préfecture Hauts-de-France,
+,,,France,Hauts-de-France,Aisne,,,,,,,2020-04-03,,,hospital,,CP Préfecture Hauts-de-France,
+,,,France,Hauts-de-France,Aisne,,,visit to Oise,,,,2020-04-04,,,,good,CP Préfecture Hauts-de-France,
+,,,France,Hauts-de-France,Aisne,,,visit to Oise,,,,2020-04-04,,,,good,CP Préfecture Hauts-de-France,
+,,,France,Hauts-de-France,Aisne,,,visit to Oise,,,,2020-04-04,,,,good,CP Préfecture Hauts-de-France,
+,,,France,Hauts-de-France,Aisne,,,visit to Oise,,,,2020-04-04,,,,good,CP Préfecture Hauts-de-France,
+,male,1957,France,Hauts-de-France,Aisne,,Crépy-en-Valois,contact with patient,,,,2020-02-29,,2020-03-05,deceased,deceased,CP Préfecture Hauts-de-France,
+,,,France,Hauts-de-France,Aisne,,,,,,,2020-03-05,,,,,CP Préfecture Hauts-de-France,
+,,,France,Hauts-de-France,Aisne,,,,,,,2020-03-05,,,,,CP Préfecture Hauts-de-France,
+2,,,France,Normandie,Seine-Maritime,Bois-Guillaume,,visit to Germany,,,,2020-02-28,,,hospital,,Newspaper and CP ARS Normandie,
+,,,France,Normandie,Eure,,,contact with patient,2,2,,2020-03-02,,,hospital,,Newspaper and CP ARS Normandie,
+,female,,France,Normandie,Manche,Sartilly,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,good,CP ARS Normandie,The patient is an elementary school kid
+,,,France,Normandie,Manche,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,good,CP ARS Normandie,
+,,,France,Normandie,Manche,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,good,CP ARS Normandie,
+,,,France,Normandie,Calvados,,,,,,,2020-03-05,,,hospital,good,CP ARS Normandie,
+,female,1962,France,Pays-de-la-Loire,Loire-Atlantique,,,contact with patient,,man in Picardie,,2020-02-27,,,hospital,good,CP ARS Pays-de-la-Loire,
+,female,1962,France,Pays-de-la-Loire,Mayenne,,,contact with patient,,patient in Bretagne,,2020-02-28,,,hospital,good,CP ARS Pays-de-la-Loire,
+,female,1995,France,Pays-de-la-Loire,Maine-et-Loire,,,contact with patient,,patient in Bretagne,,2020-02-28,,,hospital,good,CP ARS Pays-de-la-Loire,
+,male,1995,France,Pays-de-la-Loire,Maine-et-Loire,,,contact with patient,,patient in Bretagne,,2020-02-28,,,hospital,good,CP ARS Pays-de-la-Loire,
+,female,1993,France,Pays-de-la-Loire,Sarthe,,,visit to Italy,,,,2020-03-01,,,hospital,good,CP ARS Pays-de-la-Loire,Symptoms since Feb-27
+,male,1960,France,Pays-de-la-Loire,Loire-Atlantique,,,,,,,2020-03-02,,,,,Bulletin d’information n°4 ARS Pays-de-la-Loire,"Confirmed date not certain : after March-1, before March-06"
+,male,1970,France,Pays-de-la-Loire,Loire-Atlantique,,,,,,,2020-03-03,,,,,Bulletin d’information n°4 ARS Pays-de-la-Loire,"Confirmed date not certain : after March-1, before March-06"
+,male,1962,France,Pays-de-la-Loire,Loire-Atlantique,,,,,,,2020-03-04,,,,,Bulletin d’information n°4 ARS Pays-de-la-Loire,"Confirmed date not certain : after March-1, before March-06"
+,male,1976,France,Pays-de-la-Loire,Loire-Atlantique,,,,,,,2020-03-06,,,,,Bulletin d’information n°4 ARS Pays-de-la-Loire,
+,female,1963,France,Pays-de-la-Loire,Maine-et-Loire,,,,,,,2020-03-06,,,,,Bulletin d’information n°4 ARS Pays-de-la-Loire,
+,female,1974,France,Pays-de-la-Loire,Sarthe,,,,,,,2020-03-06,,,,,Bulletin d’information n°4 ARS Pays-de-la-Loire,
+,,2006,France,Pays-de-la-Loire,Sarthe,,,,,,,2020-03-06,,,,,Bulletin d’information n°4 ARS Pays-de-la-Loire,
+,male,1971,France,Pays-de-la-Loire,Vendée,,,,,,,2020-03-06,,,,,Bulletin d’information n°4 ARS Pays-de-la-Loire,
+,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-02-26,,,,,CP ARS Bourgogne-Franche-Comté,By deduction: No cases on Feb-25 / 5 cases on Feb-28
+,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-02-26,,,,,CP ARS Bourgogne-Franche-Comté,By deduction: No cases on Feb-25 / 5 cases on Feb-28
+,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-02-26,,,,,CP ARS Bourgogne-Franche-Comté,By deduction: No cases on Feb-25 / 5 cases on Feb-28
+,,,France,Bourgogne-Franche-Comté,,Beaune,Beaune family,,,,,2020-02-27,,,,,CP ARS Bourgogne-Franche-Comté,By deduction: No cases on Feb-25 / 5 cases on Feb-28
+,,,France,Bourgogne-Franche-Comté,,Beaune,Beaune family,,,,,2020-02-28,,,hospital,,CP ARS Bourgogne-Franche-Comté,
+,,,France,Bourgogne-Franche-Comté,,,group A,,,,,2020-03-01,,,hospital,,CP ARS Bourgogne-Franche-Comté,
+,,,France,Bourgogne-Franche-Comté,,,group A,,,,,2020-03-01,,,hospital,,CP ARS Bourgogne-Franche-Comté,
+,,,France,Bourgogne-Franche-Comté,,,group A,,,,,2020-03-01,,,hospital,,CP ARS Bourgogne-Franche-Comté,
+,,,France,Bourgogne-Franche-Comté,,,group A,,,,,2020-03-01,,,hospital,,CP ARS Bourgogne-Franche-Comté,
+,,,France,Bourgogne-Franche-Comté,,,group A,,,,,2020-03-01,,,hospital,,CP ARS Bourgogne-Franche-Comté,
+,,,France,Bourgogne-Franche-Comté,,,group B,,,,,2020-03-03,,,hospital,,CP ARS Bourgogne-Franche-Comté,
+,,,France,Bourgogne-Franche-Comté,,,group B,,,,,2020-03-03,,,hospital,,CP ARS Bourgogne-Franche-Comté,
+,,,France,Bourgogne-Franche-Comté,,,group B,,,,,2020-03-03,,,hospital,,CP ARS Bourgogne-Franche-Comté,
+,,,France,Bourgogne-Franche-Comté,,,group B,,,,,2020-03-03,,,hospital,,CP ARS Bourgogne-Franche-Comté,
+,,,France,Bourgogne-Franche-Comté,Saöne-et-Loire,,,visit to Italy,,,,2020-03-03,,,hospital,,CP ARS Bourgogne-Franche-Comté,
+,,,France,Bourgogne-Franche-Comté,Côte d’Or,,,,,,,2020-03-04,,,hospital,,CP ARS Bourgogne-Franche-Comté,
+,,,France,Bourgogne-Franche-Comté,Saöne-et-Loire,,,,,,,2020-03-04,,,hospital,,CP ARS Bourgogne-Franche-Comté,Patient leaves in Ain department
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,visit to Mulhouse religious gathering,,,,2020-03-04,,,hospital,,CP ARS Bourgogne-Franche-Comté,
+,,,France,Bourgogne-Franche-Comté,Haute-Saône,,,visit to Mulhouse religious gathering,,,,2020-03-04,,,hospital,,CP ARS Bourgogne-Franche-Comté,
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
