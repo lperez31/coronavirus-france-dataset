@@ -34,6 +34,10 @@ Les contributions sont bienvenues. Si vous souhaitez contribuer, il suffit de :
 
 Le fichier csv est en encodage Unicode UTF-8.
 
+## Remerciements
+
+Ce dataset s'inspire d'un travail similaire réalisé en Corée : https://github.com/jihoo-kim/Coronavirus-Dataset
+
 ## Licence
 
 Ce dataset est soumis à la licence CC-BY 4.0.
