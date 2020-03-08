@@ -41,11 +41,11 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,male,1957,France,Hauts-de-France,Aisne,,Crépy-en-Valois,contact with patient,,,,2020-02-29,,2020-03-05,deceased,deceased,CP Préfecture Hauts-de-France,source : hf5
 ,,,France,Hauts-de-France,Aisne,,,,,,,2020-03-05,,,,,CP Préfecture Hauts-de-France,
 ,,,France,Hauts-de-France,Aisne,,,,,,,2020-03-05,,,,,CP Préfecture Hauts-de-France,
-2,,,France,Normandie,Seine-Maritime,Bois-Guillaume,,visit to Germany,,,,2020-02-28,,,hospital,,Newspaper and CP ARS Normandie,
-,,,France,Normandie,Eure,,,contact with patient,2,2,,2020-03-02,,,hospital,,Newspaper and CP ARS Normandie,
-,female,,France,Normandie,Manche,Sartilly,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,good,CP ARS Normandie,The patient is an elementary school kid
-,,,France,Normandie,Manche,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,good,CP ARS Normandie,
-,,,France,Normandie,Manche,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,good,CP ARS Normandie,
+2,,,France,Normandie,Seine-Maritime,Bois-Guillaume,,visit to Germany,,,,2020-02-28,,,home isolation,good,Newspaper and CP ARS Normandie,"According to n5, only 2 people are still at hospital in Normandie. We assume this patient is now at home."
+,,,France,Normandie,Eure,,,contact with patient,2,2,,2020-03-02,,,home isolation,good,Newspaper and CP ARS Normandie,"According to n5, only 2 people are still at hospital in Normandie. We assume this patient is now at home."
+,female,,France,Normandie,Manche,Sartilly,,visit to Mulhouse religious gathering,,,,2020-03-05,,,home isolation,good,CP ARS Normandie,"The patient is an elementary school kid - According to n5, 5 people from Manche are at home, we assume this one is at home"
+,,,France,Normandie,Manche,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,home isolation,good,CP ARS Normandie,"According to n5, 5 people from Manche are at home, we assume this one is at home"
+,,,France,Normandie,Manche,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,good,CP ARS Normandie,"According to n5, 5 people from Manche are at home, we assume this one is at hospital"
 ,,,France,Normandie,Calvados,,,,,,,2020-03-05,,,hospital,good,CP ARS Normandie,
 ,female,1962,France,Pays-de-la-Loire,Loire-Atlantique,,,contact with patient,,man in Picardie,,2020-02-27,,,hospital,good,CP ARS Pays-de-la-Loire,
 ,female,1962,France,Pays-de-la-Loire,Mayenne,,,contact with patient,,patient in Bretagne,,2020-02-28,,,hospital,good,CP ARS Pays-de-la-Loire,
@@ -227,3 +227,19 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Hauts-de-France,Aisne,,,,,,,2020-03-06,,,,,CP Préfecture Hauts-de-France,source : hf10
 ,,,France,Hauts-de-France,Aisne,,,,,,,2020-03-06,,,,,CP Préfecture Hauts-de-France,source : hf10
 ,,,France,Hauts-de-France,Aisne,,,,,,,2020-03-06,,,,,CP Préfecture Hauts-de-France,source : hf10
+,,,France,Normandie,Manche,,Contact of first patient of Manche,contact with patient,,,,2020-03-06,,,home isolation,good,CP ARS Normandie,"source : n3 - According to n5, 5 people from Manche are at home, we assume this one is at home"
+,,,France,Normandie,Manche,,Contact of first patient of Manche,contact with patient,,,,2020-03-06,,,home isolation,good,CP ARS Normandie,"source : n3 - According to n5, 5 people from Manche are at home, we assume this one is at home"
+,,,France,Normandie,Manche,,Contact of first patient of Manche,contact with patient,,,,2020-03-06,,,home isolation,good,CP ARS Normandie,"source : n3 - According to n5, 5 people from Manche are at home, we assume this one is at home"
+,male,1934,France,Normandie,Seine-Maritime,,,,,,,2020-03-06,,2020-03-06,deceased,deceased,CP ARS Normandie,source : n4
+,,,France,Normandie,Calvados,,,,,,,2020-03-08,,,home isolation,good,CP ARS Normandie,source : n5
+,,,France,Normandie,Seine-Maritime,,,,,,,2020-03-08,,,home isolation,good,CP ARS Normandie,source : n5
+,,,France,Normandie,Seine-Maritime,,,,,,,2020-03-08,,,home isolation,good,CP ARS Normandie,source : n5
+,,,France,Normandie,Seine-Maritime,,,,,,,2020-03-08,,,home isolation,good,CP ARS Normandie,source : n5
+,,,France,Normandie,Seine-Maritime,,,,,,,2020-03-08,,,home isolation,good,CP ARS Normandie,source : n5
+,,,France,Normandie,Seine-Maritime,,,,,,,2020-03-08,,,home isolation,good,CP ARS Normandie,source : n5
+,,,France,Normandie,Seine-Maritime,,,,,,,2020-03-08,,,home isolation,good,CP ARS Normandie,source : n5
+,,,France,Normandie,Eure,,,,,,,2020-03-04,,,home isolation,good,CP ARS Normandie,source : n5 – No previous mention of this patient found – real confirmed date unknown
+,,,France,Normandie,Eure,,,,,,,2020-03-08,,,home isolation,good,CP ARS Normandie,source : n5
+,,,France,Normandie,Eure,,,,,,,2020-03-08,,,home isolation,good,CP ARS Normandie,source : n5
+,,,France,Normandie,Eure,,,,,,,2020-03-08,,,home isolation,good,CP ARS Normandie,source : n5
+,,,France,Normandie,Eure,,,,,,,2020-03-08,,,home isolation,good,CP ARS Normandie,source : n5

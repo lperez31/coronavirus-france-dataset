@@ -8,7 +8,7 @@ Le dataset n'est pas encore complet. Il contient les données publiées avant le
   * Nouvelle-Aquitaine (jusqu'au 7 mars)
   * Occitanie (jusqu'au 7 mars)
   * Hauts-de-France (jusqu'au 7 mars)
-  * Normandie
+  * Normandie (jusqu'au 8 mars milieu de journée)
   * Pays de la Loire
   * Bourgogne Franche Comté
   * Bretagne (jusqu'au 7 mars)
