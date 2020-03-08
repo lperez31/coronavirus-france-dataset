@@ -38,6 +38,10 @@ Le fichier csv est en encodage Unicode UTF-8.
 
 Les années de naissance sont calculées selon la formule suivante : (2020 - âge).
 
+## Kaggle
+
+Le dataset du présent repository est également recopié sur Kaggle pour permettre des travaux de visualisation et d'analyse des données : https://www.kaggle.com/lperez/coronavirus-france-dataset
+
 ## Remerciements
 
 Ce dataset s'inspire d'un travail similaire réalisé en Corée : https://github.com/jihoo-kim/Coronavirus-Dataset
