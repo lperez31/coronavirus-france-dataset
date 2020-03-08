@@ -186,12 +186,12 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-07,,,,,CP ARS PACA,
 ,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-07,,,,,CP ARS PACA,
 ,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-07,,,,,CP ARS PACA,
-,female,,France,PACA,Alpes-Maritimes,Cannes,,,,,,2020-03-07,,,,,CP ARS PACA,54 years old
-,male,,France,PACA,Alpes-Maritimes,Cannes,,,,,,2020-03-07,,,,,CP ARS PACA,56 years old
-,male,,France,PACA,Alpes-Maritimes,La Tour,,,,,,2020-03-07,,,,,CP ARS PACA,63 years old
+,female,1966,France,PACA,Alpes-Maritimes,Cannes,,,,,,2020-03-07,,,,,CP ARS PACA,54 years old
+,male,1964,France,PACA,Alpes-Maritimes,Cannes,,,,,,2020-03-07,,,,,CP ARS PACA,56 years old
+,male,1957,France,PACA,Alpes-Maritimes,La Tour,,,,,,2020-03-07,,,,,CP ARS PACA,63 years old
 ,female,,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 4,,,,,2020-03-04,,,,,CP ARS PACA,parent
 ,male,,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 4,,,,,2020-03-04,,,,,CP ARS PACA,parent
-,,,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 4,,,,,2020-03-04,,,,,CP ARS PACA,child in elementary school : CM1 school Bensa in Marseille
+,,2010,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 4,,,,,2020-03-04,,,,,CP ARS PACA,child in elementary school : CM1 school Bensa in Marseille. Birth year approximative.
 ,,,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 4,,,,,2020-03-04,,,,,CP ARS PACA,child
 ,female,,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 3,,,,,2020-03-04,,,,,CP ARS PACA,parent
 ,male,,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 3,,,,,2020-03-04,,,,,CP ARS PACA,parent
@@ -203,5 +203,5 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-07,,,,,CP ARS PACA,
 ,female,,France,PACA,Var,Six-Four-les-Plages,,visit to Lombardy,,,,2020-03-06,,,,,CP ARS PACA,
 ,,,,PACA,Var,,,,,,,2020-03-07,,,,,CP ARS PACA,
-,,,France,PACA,Vaucluse,Valréas,From Drôme ,,,,,2020-03-04,,,,,CP ARS PACA,hospitalized in Marseille
+,,,France,PACA,Vaucluse,Valréas,From Drôme ,,,,,2020-03-04,,,hospital,,CP ARS PACA,hospitalized in Marseille
 ,,,France,PACA,Vaucluse,Avignon,,,,,,2020-03-05,,,,,,
