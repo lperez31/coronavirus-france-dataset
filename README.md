@@ -35,6 +35,8 @@ Les contributions sont bienvenues. Si vous souhaitez contribuer, il suffit de :
 
 Le fichier csv est en encodage Unicode UTF-8.
 
+Les années de naissance sont calculées selon la formule suivante : (2020 - âge).
+
 ## Remerciements
 
 Ce dataset s'inspire d'un travail similaire réalisé en Corée : https://github.com/jihoo-kim/Coronavirus-Dataset
