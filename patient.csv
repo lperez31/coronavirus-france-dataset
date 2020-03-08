@@ -38,7 +38,7 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Hauts-de-France,Aisne,,,visit to Oise,,,,2020-04-04,,,,good,CP Préfecture Hauts-de-France,
 ,,,France,Hauts-de-France,Aisne,,,visit to Oise,,,,2020-04-04,,,,good,CP Préfecture Hauts-de-France,
 ,,,France,Hauts-de-France,Aisne,,,visit to Oise,,,,2020-04-04,,,,good,CP Préfecture Hauts-de-France,
-,male,1957,France,Hauts-de-France,Aisne,,Crépy-en-Valois,contact with patient,,,,2020-02-29,,2020-03-05,deceased,deceased,CP Préfecture Hauts-de-France,
+,male,1957,France,Hauts-de-France,Aisne,,Crépy-en-Valois,contact with patient,,,,2020-02-29,,2020-03-05,deceased,deceased,CP Préfecture Hauts-de-France,source : hf5
 ,,,France,Hauts-de-France,Aisne,,,,,,,2020-03-05,,,,,CP Préfecture Hauts-de-France,
 ,,,France,Hauts-de-France,Aisne,,,,,,,2020-03-05,,,,,CP Préfecture Hauts-de-France,
 2,,,France,Normandie,Seine-Maritime,Bois-Guillaume,,visit to Germany,,,,2020-02-28,,,hospital,,Newspaper and CP ARS Normandie,
@@ -202,6 +202,28 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-07,,,,,CP ARS PACA,
 ,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-07,,,,,CP ARS PACA,
 ,female,,France,PACA,Var,Six-Four-les-Plages,,visit to Lombardy,,,,2020-03-06,,,,,CP ARS PACA,
-,,,,PACA,Var,,,,,,,2020-03-07,,,,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-07,,,,,CP ARS PACA,
 ,,,France,PACA,Vaucluse,Valréas,From Drôme ,,,,,2020-03-04,,,hospital,,CP ARS PACA,hospitalized in Marseille
-,,,France,PACA,Vaucluse,Avignon,,,,,,2020-03-05,,,,,,
+,,,France,PACA,Vaucluse,Avignon,,,,,,2020-03-05,,,,,CP ARS PACA,
+,female,,France,Hauts-de-France,Nord,,,visit to Italy,,,,2020-03-04,,,hospital,,CP ARS Hauts-de-France,source : hf3
+,male,1947,France,Hauts-de-France,Oise,Crépy-en-Valois,Crépy-en-Valois,,,,,2020-02-29,,2020-03-04,deceased,,CP ARS Hauts-de-France,source : hf4
+,male,1941,France,Hauts-de-France,Oise,Crépy-en-Valois,Crépy-en-Valois,,,,,2020-03-05,,2020-03-05,deceased,,CP ARS Hauts-de-France,"source : hf6 – confirmed date not certain, this patient was not mentioned in previous communications, hospitalized since 2020-02-28"
+3,female,2014,France,Hauts-de-France,Nord,Roost-Warendin,Roost-Warendin family,,,,,2020-03-06,,,,,CP ARS Hauts-de-France,"source : hf7 – kid in CP, age estimated. School Roger Salengro at Roost-Warendin"
+,male,,France,Hauts-de-France,Nord,Roost-Warendin,Roost-Warendin family,,,,,2020-03-06,,,,,CP ARS Hauts-de-France,source : hf7 – parent of 3
+,female,,France,Hauts-de-France,Nord,Roost-Warendin,Roost-Warendin family,,,,,2020-03-06,,,,,CP ARS Hauts-de-France,source : hf7 – parent of 3
+,male,1926,France,Hauts-de-France,Oise,,,,,,,2020-03-05,,2020-03-04,deceased,,CP ARS Hauts-de-France,source : hf8 – hospitalized since 2020-03-01
+,male,1955,France,Hauts-de-France,Oise,,,,,,,2020-03-05,,2020-03-04,deceased,,CP ARS Hauts-de-France,source : hf8 – hospitalized since 2020-03-01
+,,,France,Hauts-de-France,Somme,,,,,,,2020-03-05,,,,,CP ARS Hauts-de-France,"source : hf9 – confirmed date uncertain, before 2020-03-06, previous mentions of this patient not found"
+,,,France,Hauts-de-France,Somme,,,,,,,2020-03-05,,,,,CP ARS Hauts-de-France,"source : hf9 – confirmed date uncertain, before 2020-03-06, previous mentions of this patient not found"
+,female,1999,France,Hauts-de-France,Somme,,,,,,,2020-03-06,,,hospital,,CP ARS Hauts-de-France,source : hf9
+,,,France,Hauts-de-France,Pas-de-Calais,,,Creil military base ?,,,,2020-03-01,,,home isolation,,CP ARS Hauts-de-France,source : hf10 – no previous mention of this patient found
+,,,France,Hauts-de-France,Pas-de-Calais,Beuvry,Mulhouse religious gathering,,,,,2020-03-07,,,hospital,,CP ARS Hauts-de-France,source : hf10
+,,,France,Hauts-de-France,Pas-de-Calais,Hénin-Beaumont,Mulhouse religious gathering,,,,,2020-03-07,,,hospital,,CP ARS Hauts-de-France,source : hf10
+,female,1937,France,Hauts-de-France,Oise,Crépy-en-Valois,Crépy-en-Valois,,,,,2020-03-07,,2020-03-05,deceased,,CP ARS Hauts-de-France,source : hf11
+,,,France,Hauts-de-France,Aisne,,,,,,,2020-03-03,,,,,CP Préfecture Hauts-de-France,"source : hf10 – no previous mention of this patient found, confirmed date not certain"
+,,,France,Hauts-de-France,Aisne,,,,,,,2020-03-06,,,,,CP Préfecture Hauts-de-France,source : hf10
+,,,France,Hauts-de-France,Aisne,,,,,,,2020-03-06,,,,,CP Préfecture Hauts-de-France,source : hf10
+,,,France,Hauts-de-France,Aisne,,,,,,,2020-03-06,,,,,CP Préfecture Hauts-de-France,source : hf10
+,,,France,Hauts-de-France,Aisne,,,,,,,2020-03-06,,,,,CP Préfecture Hauts-de-France,source : hf10
+,,,France,Hauts-de-France,Aisne,,,,,,,2020-03-06,,,,,CP Préfecture Hauts-de-France,source : hf10
+,,,France,Hauts-de-France,Aisne,,,,,,,2020-03-06,,,,,CP Préfecture Hauts-de-France,source : hf10
