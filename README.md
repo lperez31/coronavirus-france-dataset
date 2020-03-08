@@ -12,6 +12,7 @@ Le dataset n'est pas encore complet. Il contient les données publiées avant le
   * Pays de la Loire
   * Bourgogne Franche Comté
   * Bretagne (jusqu'au 7 mars)
+  * PACA (jusqu'au 7 mars)
 
 Il est fourni sans garantie et peut contenir des erreurs ou omissions.
 
@@ -45,4 +46,4 @@ Ce dataset s'inspire d'un travail similaire réalisé en Corée : https://github
 
 Ce dataset est soumis à la licence CC-BY 4.0.
 
-Contributeurs : Lior Perez, Samia Drappeau
+Contributeurs : Lior Perez, Samia Drappeau, Manon Fourniol
