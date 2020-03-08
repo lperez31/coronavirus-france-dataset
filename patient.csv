@@ -104,3 +104,50 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
 ,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
 ,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,male,1948,France,Bretagne,Finistère,Plougonvelin,,visit to Egypt,,,,2020-02-27,,,hospital,,CP ARS Bretagne,
+,female,,France,Bretagne,Finistère,Plougonvelin,,visit to Egypt,,,,28/02/2020,,,hospital,,CP ARS Bretagne,
+,male,,France,Bretagne,Ille-et-Vilaine,Rennes,,visit to Oise,,,,2020-02-29,,,hospital,,CP ARS Bretagne,
+,female,,France,Bretagne,Ille-et-Vilaine,Rennes,,visit to Oise,,,,2020-02-29,,,hospital,,CP ARS Bretagne,
+,,,France,Bretagne,Morbihan,Auray,,,,,,2020-03-01,,,hospital,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,Auray,,,,,,2020-03-01,,,hospital,,CP ARS Bretagne,Cluster Morbihan
+,male,1928,France,Bretagne,Morbihan,Crac’h,,,,,,2020-03-01,,2020-03-03,deceased,deceased,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,Crac’h,,,,,,2020-03-01,,,hospital,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,Crac’h,,,,,,2020-03-01,,,hospital,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,Crac’h,,,,,,2020-03-01,,,hospital,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,Carnac,,,,,,2020-03-01,,,hospital,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,Carnac,,,,,,2020-03-01,,,hospital,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,Carnac,,,,,,2020-03-01,,,hospital,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Ille-et-Vilaine,Rennes,,"Visit to Venise, Italy",,,,2020-03-01,,,hospital,,CP ARS Bretagne,
+,,,France,Bretagne,Ille-et-Vilaine,Rennes,,"Visit to Venise, Italy",,,,2020-03-01,,,hospital,,CP ARS Bretagne,
+,,,France,Bretagne,Morbihan,Crac’h,,,,,,2020-03-02,,,hospital,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,Crac’h,,,,,,2020-03-02,,,hospital,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,Saint-Philibert,,,,,,2020-03-02,,,hospital,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Finistère,Brest,,,,,,2020-03-02,,,hospital,,CP ARS Bretagne,
+,female,,France,Bretagne,Morbihan,Brec’h,,contact with patient in Auray,,,,2020-03-04,,,home isolation,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,Crac’h,,,,,,2020-03-04,,,,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,Crac’h,,,,,,2020-03-04,,,,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,Crac’h,,,,,,2020-03-04,,,,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,Crac’h,,,,,,2020-03-04,,,,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,Saint-Anne d'Auray,,,,,,2020-03-05,,,,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,Trinité-sur-Mer,,,,,,2020-03-05,,,,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,Saint-Pierre Quiberon,,,,,,2020-03-05,,,,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,Saint-Pierre Quiberon,,,,,,2020-03-05,,,,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,Saint-Pierre Quiberon,,,,,,2020-03-05,,,,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Ille-et-Vilaine,,,,,,,2020-03-05,,,,,CP ARS Bretagne,
+,,,France,Bretagne,Morbihan,Carnac,,,,,,2020-03-05,,,,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,Saint-Philibert,,,,,,2020-03-06,,,,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Ille-et-Vilaine,,,,,,,2020-03-06,,,,,CP ARS Bretagne,
+,,,France,Bretagne,Finistère,,,,,,,2020-03-06,,,,,CP ARS Bretagne,
+,,,France,Bretagne,Finistère,,,,,,,2020-03-07,,,,,CP ARS Bretagne,
+,,,France,Bretagne,Ille-et-Vilaine,,,,,,,2020-03-07,,,,,CP ARS Bretagne,
+,,,France,Bretagne,Morbihan,,,,,,,2020-03-07,,,,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,,,,,,,2020-03-07,,,,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,,,,,,,2020-03-07,,,,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,,,,,,,2020-03-07,,,,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,,,,,,,2020-03-07,,,,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,,,,,,,2020-03-07,,,,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,,,,,,,2020-03-07,,,,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,,,,,,,2020-03-07,,,,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,,,,,,,2020-03-07,,,,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,Locminé,,,,,,2020-03-07,,,,,CP ARS Bretagne,Cluster Morbihan
+,,,France,Bretagne,Morbihan,Saint-Anne d'Auray,,,,,,2020-03-07,,,,,CP ARS Bretagne,Cluster Morbihan
