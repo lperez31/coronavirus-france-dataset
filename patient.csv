@@ -31,13 +31,13 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Hauts-de-France,Aisne,,,visit to Italy,,,,2020-03-01,,,,good,CP Préfecture Hauts-de-France,
 ,,,France,Hauts-de-France,Aisne,,,visit to Oise,,,,2020-03-02,,,,good,CP Préfecture Hauts-de-France,
 ,,,France,Hauts-de-France,Aisne,,,visit to Oise,,,,2020-03-02,,,,good,CP Préfecture Hauts-de-France,
-,,,France,Hauts-de-France,Aisne,,,,,,,2020-04-03,,,hospital,,CP Préfecture Hauts-de-France,
-,,,France,Hauts-de-France,Aisne,,,,,,,2020-04-03,,,hospital,,CP Préfecture Hauts-de-France,
-,,,France,Hauts-de-France,Aisne,,,,,,,2020-04-03,,,hospital,,CP Préfecture Hauts-de-France,
-,,,France,Hauts-de-France,Aisne,,,visit to Oise,,,,2020-04-04,,,,good,CP Préfecture Hauts-de-France,
-,,,France,Hauts-de-France,Aisne,,,visit to Oise,,,,2020-04-04,,,,good,CP Préfecture Hauts-de-France,
-,,,France,Hauts-de-France,Aisne,,,visit to Oise,,,,2020-04-04,,,,good,CP Préfecture Hauts-de-France,
-,,,France,Hauts-de-France,Aisne,,,visit to Oise,,,,2020-04-04,,,,good,CP Préfecture Hauts-de-France,
+,,,France,Hauts-de-France,Aisne,,,,,,,2020-03-03,,,hospital,,CP Préfecture Hauts-de-France,
+,,,France,Hauts-de-France,Aisne,,,,,,,2020-03-03,,,hospital,,CP Préfecture Hauts-de-France,
+,,,France,Hauts-de-France,Aisne,,,,,,,2020-03-03,,,hospital,,CP Préfecture Hauts-de-France,
+,,,France,Hauts-de-France,Aisne,,,visit to Oise,,,,2020-03-04,,,,good,CP Préfecture Hauts-de-France,
+,,,France,Hauts-de-France,Aisne,,,visit to Oise,,,,2020-03-04,,,,good,CP Préfecture Hauts-de-France,
+,,,France,Hauts-de-France,Aisne,,,visit to Oise,,,,2020-03-04,,,,good,CP Préfecture Hauts-de-France,
+,,,France,Hauts-de-France,Aisne,,,visit to Oise,,,,2020-03-04,,,,good,CP Préfecture Hauts-de-France,
 ,male,1957,France,Hauts-de-France,Aisne,,Crépy-en-Valois,contact with patient,,,,2020-02-29,,2020-03-05,deceased,deceased,CP Préfecture Hauts-de-France,source : hf5
 ,,,France,Hauts-de-France,Aisne,,,,,,,2020-03-05,,,,,CP Préfecture Hauts-de-France,
 ,,,France,Hauts-de-France,Aisne,,,,,,,2020-03-05,,,,,CP Préfecture Hauts-de-France,
@@ -105,7 +105,7 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
 ,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
 ,male,1948,France,Bretagne,Finistère,Plougonvelin,,visit to Egypt,,,,2020-02-27,,,hospital,,CP ARS Bretagne,
-,female,,France,Bretagne,Finistère,Plougonvelin,,visit to Egypt,,,,28/02/2020,,,hospital,,CP ARS Bretagne,
+,female,,France,Bretagne,Finistère,Plougonvelin,,visit to Egypt,,,,2020-02-28,,,hospital,,CP ARS Bretagne,
 ,male,,France,Bretagne,Ille-et-Vilaine,Rennes,,visit to Oise,,,,2020-02-29,,,hospital,,CP ARS Bretagne,
 ,female,,France,Bretagne,Ille-et-Vilaine,Rennes,,visit to Oise,,,,2020-02-29,,,hospital,,CP ARS Bretagne,
 ,,,France,Bretagne,Morbihan,Auray,,,,,,2020-03-01,,,hospital,,CP ARS Bretagne,Cluster Morbihan
