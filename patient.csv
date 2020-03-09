@@ -342,3 +342,14 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Nouvelle-Aquitaine,Lot-et-Garonne,,Mulhouse religious gathering,,,,,2020-03-08,,,,,Na9 – CP ARS Nouvelle Aquitaine,
 ,,,France,Nouvelle-Aquitaine,Gironde,,Mulhouse religious gathering,,,,,2020-03-08,,,,,Na9 – CP ARS Nouvelle Aquitaine,
 ,,,France,Nouvelle-Aquitaine,Gironde,,,,,,,2020-02-24,,,,,Na9 – CP ARS Nouvelle Aquitaine,Previous mention of this patient not found
+,female,,France,Occitanie,Aude,Lézignan-Corbières,,contact with patient,,,,2020-03-08,,,,,O12 – CP ARS Occitanie and O13,School teacher in Lézignan-Corbières
+,,,France,Occitanie,Aude,,,contact with patient,,,,2020-03-08,,,,,O13 – CP ARS Occitanie,
+,,,France,Occitanie,Aude,,,contact with patient,,,,2020-03-08,,,,,O13 – CP ARS Occitanie,
+,,,France,Occitanie,Aude,,,contact with patient,,,,2020-03-08,,,,,O13 – CP ARS Occitanie,
+,,,France,Occitanie,Aude,,,contact with patient,,,,2020-03-08,,,,,O13 – CP ARS Occitanie,
+,,,France,Occitanie,Hérault,,,visit to Oise,,,,2020-03-08,,,,,O13 – CP ARS Occitanie,
+,,,France,Occitanie,Hérault,,,visit to Senegal,,,,2020-03-08,,,,,O13 – CP ARS Occitanie,
+,,,France,Occitanie,Hérault,,,contact with patient,,,,2020-03-08,,,,,O13 – CP ARS Occitanie,
+,,,France,Occitanie,Aveyron,,,contact with patient,,,,2020-03-08,,,,,O13 – CP ARS Occitanie,
+,,,France,Occitanie,Aveyron,,,contact with patient,,,,2020-03-08,,,,,O13 – CP ARS Occitanie,
+,male,1947,France,Occitanie,Gers,,,visit to Alsace,,,,2020-03-08,,,hospital,good,O14 – CP ARS Occitanie,

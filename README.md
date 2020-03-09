@@ -6,7 +6,7 @@
 
 Le dataset n'est pas encore complet. Il contient les données publiées avant le 7 mars 2020 pour les régions :
   * Nouvelle-Aquitaine (jusqu'au 8 mars)
-  * Occitanie (jusqu'au 7 mars)
+  * Occitanie (jusqu'au 8 mars)
   * Hauts-de-France (jusqu'au 7 mars)
   * Normandie (jusqu'au 8 mars milieu de journée)
   * Pays de la Loire (jusqu'au 8 mars 13h)
