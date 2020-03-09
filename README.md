@@ -13,6 +13,7 @@ Le dataset n'est pas encore complet. Il contient les données publiées avant le
   * Bourgogne Franche Comté (jusqu'au 9 mars en cours de journée)
   * Bretagne (jusqu'au 7 mars)
   * PACA (jusqu'au 7 mars)
+  * Centre-Val de Loire (jusqu'au 8 mars)
 
 Il est fourni sans garantie et peut contenir des erreurs ou omissions.
 

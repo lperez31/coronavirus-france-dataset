@@ -376,3 +376,20 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Normandie,Seine-Maritime,,,,,,,2020-03-09,,,home isolation,good,N6 – CP ARS Normandie,The report says that 2 people are in hospital in Normandie. We assume they are the 2 people already in hospital confirmed on march 5. Thus this patient is at home.
 ,,,France,Normandie,Eure,,,,,,,2020-03-09,,,home isolation,good,N6 – CP ARS Normandie,The report says that 2 people are in hospital in Normandie. We assume they are the 2 people already in hospital confirmed on march 5. Thus this patient is at home.
 ,,,France,Pays-de-la-Loire,Loire-Atlantique,,,,,,,2020-03-09,,,,,Pl6 – CP ARS Pays-de-la-Loire and Pl7 – Bulletin d’information n°7 ARS Pays-de-la-Loire,Patient from high school Henri Dunant in Angers
+,female,1947,France,Centre-Val de Loire,Indre-et-Loire,,,visit to Mulhouse,,,,2020-03-04,,,hospital,good,Cvl1 – CP ARS Centre-Val de Loire,Hospitalized in CHU de Tours
+,male,1980,France,Centre-Val de Loire,Eure-et-Loir,,,visit to Milan,,,,2020-03-04,,,hospital,good,Cvl1 – CP ARS Centre-Val de Loire,Hospitalized in CHR d’Orléans
+,female,,France,Centre-Val de Loire,Loiret,,,,,,,2020-03-05,,,hospital,good,Cvl2 – CP ARS Centre-Val de Loire,Hospitalized in CHR d’Orléans – worker of school Henri Poincaré in Orléans
+,,,France,Centre-Val de Loire,Loiret,,,,,,,2020-03-06,,,,good,Cvl3 – CP ARS Centre-Val de Loire,
+,,,France,Centre-Val de Loire,Loiret,,,,,,,2020-03-06,,,,good,Cvl3 – CP ARS Centre-Val de Loire,
+,,,France,Centre-Val de Loire,Loiret,,,,,,,2020-03-06,,,,good,Cvl3 – CP ARS Centre-Val de Loire,
+,,,France,Centre-Val de Loire,Indre-et-Loire,,,,,,,2020-03-06,,,,good,Cvl3 – CP ARS Centre-Val de Loire,
+,,,France,Centre-Val de Loire,Eure-et-Loir,,,,,,,2020-03-08,,,,good,Cvl4 – Bulletin d’information n°1 ARS Centre-Val de Loire,
+,,,France,Centre-Val de Loire,Eure-et-Loir,,,,,,,2020-03-08,,,,good,Cvl4 – Bulletin d’information n°1 ARS Centre-Val de Loire,
+,,,France,Centre-Val de Loire,Eure-et-Loir,,,,,,,2020-03-08,,,,good,Cvl4 – Bulletin d’information n°1 ARS Centre-Val de Loire,
+,,,France,Centre-Val de Loire,Eure-et-Loir,,,,,,,2020-03-08,,,,good,Cvl4 – Bulletin d’information n°1 ARS Centre-Val de Loire,
+,,,France,Centre-Val de Loire,Indre-et-Loire,,,,,,,2020-03-08,,,,good,Cvl4 – Bulletin d’information n°1 ARS Centre-Val de Loire,
+,,,France,Centre-Val de Loire,Indre-et-Loire,,,,,,,2020-03-08,,,,good,Cvl4 – Bulletin d’information n°1 ARS Centre-Val de Loire,
+,,,France,Centre-Val de Loire,Indre-et-Loire,,,,,,,2020-03-08,,,,good,Cvl4 – Bulletin d’information n°1 ARS Centre-Val de Loire,
+,,,France,Centre-Val de Loire,Loiret,,,,,,,2020-03-08,,,,good,Cvl4 – Bulletin d’information n°1 ARS Centre-Val de Loire,
+,,,France,Centre-Val de Loire,Loiret,,,,,,,2020-03-08,,,,good,Cvl4 – Bulletin d’information n°1 ARS Centre-Val de Loire,
+,,,France,Centre-Val de Loire,Loiret,,,,,,,2020-03-08,,,,good,Cvl4 – Bulletin d’information n°1 ARS Centre-Val de Loire,
