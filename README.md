@@ -15,6 +15,7 @@ Le dataset n'est pas encore complet. Il contient les données publiées avant le
   * PACA (jusqu'au 7 mars)
   * Centre-Val de Loire (jusqu'au 8 mars)
   * Auvergne-Rhône-Alpes (jusqu'au 8 mars)
+  * Outre-mer (jusqu'au 9 mars)
 
 Il est fourni sans garantie et peut contenir des erreurs ou omissions.
 
