@@ -14,6 +14,7 @@ Le dataset n'est pas encore complet. Il contient les données publiées avant le
   * Bretagne (jusqu'au 7 mars)
   * PACA (jusqu'au 7 mars)
   * Centre-Val de Loire (jusqu'au 8 mars)
+  * Auvergne-Rhône-Alpes (jusqu'au 8 mars)
 
 Il est fourni sans garantie et peut contenir des erreurs ou omissions.
 
@@ -51,4 +52,4 @@ Ce dataset s'inspire d'un travail similaire réalisé en Corée : https://github
 
 Ce dataset est soumis à la licence CC-BY 4.0.
 
-Contributeurs : Lior Perez, Samia Drappeau, Manon Fourniol
+Contributeurs : Lior Perez, Samia Drappeau, Manon Fourniol, Zoragna
