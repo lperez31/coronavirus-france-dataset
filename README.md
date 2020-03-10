@@ -11,7 +11,7 @@ Le dataset n'est pas encore complet. Il contient les données publiées avant le
   * Normandie (jusqu'au 9 mars en cours de journée)
   * Pays de la Loire (jusqu'au 9 mars 14h)
   * Bourgogne Franche Comté (jusqu'au 9 mars en cours de journée)
-  * Bretagne (jusqu'au 7 mars)
+  * Bretagne (jusqu'au 9 mars)
   * PACA (jusqu'au 7 mars)
   * Centre-Val de Loire (jusqu'au 8 mars)
   * Auvergne-Rhône-Alpes (jusqu'au 8 mars)
