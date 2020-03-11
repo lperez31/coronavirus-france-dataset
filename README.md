@@ -4,13 +4,13 @@
 
 ## Disclaimer
 
-Le dataset n'est pas encore complet. Il contient les données publiées avant le 7 mars 2020 pour les régions :
+Le dataset n'est pas encore complet. Il contient les données publiées avant le 8 mars 2020 pour les régions :
   * Nouvelle-Aquitaine (jusqu'au 10 mars)
   * Occitanie (jusqu'au 10 mars)
   * Hauts-de-France (jusqu'au 9 mars)
   * Normandie (jusqu'au 9 mars)
   * Pays de la Loire (jusqu'au 9)
-  * Bourgogne Franche Comté (jusqu'au 9 mars)
+  * Bourgogne Franche Comté (jusqu'au 11 mars) - les informations de cette région ont été éclatées arbitrairement entre les départements, l'ARS ne communiquant pas les informations détaillées
   * Bretagne (jusqu'au 9 mars)
   * PACA (jusqu'au 10 mars)
   * Centre-Val de Loire (jusqu'au 11 mars)

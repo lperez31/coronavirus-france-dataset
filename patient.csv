@@ -60,50 +60,50 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,female,1974,France,Pays-de-la-Loire,Sarthe,,,,,,,2020-03-06,,,,,Bulletin d’information n°4 ARS Pays-de-la-Loire,
 ,,2006,France,Pays-de-la-Loire,Sarthe,,,,,,,2020-03-06,,,,,Bulletin d’information n°4 ARS Pays-de-la-Loire,
 ,male,1971,France,Pays-de-la-Loire,Vendée,,,,,,,2020-03-06,,,,,Bulletin d’information n°4 ARS Pays-de-la-Loire,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-02-26,,,,,CP ARS Bourgogne-Franche-Comté,By deduction: No cases on Feb-25 / 5 cases on Feb-28
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-02-26,,,,,CP ARS Bourgogne-Franche-Comté,By deduction: No cases on Feb-25 / 5 cases on Feb-28
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-02-26,,,,,CP ARS Bourgogne-Franche-Comté,By deduction: No cases on Feb-25 / 5 cases on Feb-28
-,,,France,Bourgogne-Franche-Comté,,Beaune,Beaune family,,,,,2020-02-27,,,,,CP ARS Bourgogne-Franche-Comté,By deduction: No cases on Feb-25 / 5 cases on Feb-28
-,,,France,Bourgogne-Franche-Comté,,Beaune,Beaune family,,,,,2020-02-28,,,hospital,,CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,group A,,,,,2020-03-01,,,hospital,,CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,group A,,,,,2020-03-01,,,hospital,,CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,group A,,,,,2020-03-01,,,hospital,,CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,group A,,,,,2020-03-01,,,hospital,,CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,group A,,,,,2020-03-01,,,hospital,,CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,group B,,,,,2020-03-03,,,hospital,,CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,group B,,,,,2020-03-03,,,hospital,,CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,group B,,,,,2020-03-03,,,hospital,,CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,group B,,,,,2020-03-03,,,hospital,,CP ARS Bourgogne-Franche-Comté,
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-02-26,,,,,CP ARS Bourgogne-Franche-Comté,By deduction: No cases on Feb-25 / 5 cases on Feb-28 – departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-02-26,,,,,CP ARS Bourgogne-Franche-Comté,By deduction: No cases on Feb-25 / 5 cases on Feb-28 – departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-02-26,,,,,CP ARS Bourgogne-Franche-Comté,By deduction: No cases on Feb-25 / 5 cases on Feb-28 – departement not sure
+,,,France,Bourgogne-Franche-Comté,Côte-d'Or,Beaune,Beaune family,,,,,2020-02-27,,,,,CP ARS Bourgogne-Franche-Comté,By deduction: No cases on Feb-25 / 5 cases on Feb-28
+,,,France,Bourgogne-Franche-Comté,Côte-d'Or,Beaune,Beaune family,,,,,2020-02-28,,,hospital,,CP ARS Bourgogne-Franche-Comté,
+,,,France,Bourgogne-Franche-Comté,Doubs,,group A,,,,,2020-03-01,,,hospital,,CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,group A,,,,,2020-03-01,,,hospital,,CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,group A,,,,,2020-03-01,,,hospital,,CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,group A,,,,,2020-03-01,,,hospital,,CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,group A,,,,,2020-03-01,,,hospital,,CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,group B,,,,,2020-03-03,,,hospital,,CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,group B,,,,,2020-03-03,,,hospital,,CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,group B,,,,,2020-03-03,,,hospital,,CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,group B,,,,,2020-03-03,,,hospital,,CP ARS Bourgogne-Franche-Comté,Departement not sure
 ,,,France,Bourgogne-Franche-Comté,Saône-et-Loire,,,visit to Italy,,,,2020-03-03,,,hospital,,CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,Côte-d’Or,,,,,,,2020-03-04,,,hospital,,CP ARS Bourgogne-Franche-Comté,
+,,,France,Bourgogne-Franche-Comté,Côte-d'Or,,,,,,,2020-03-04,,,hospital,,CP ARS Bourgogne-Franche-Comté,
 ,,,France,Bourgogne-Franche-Comté,Saône-et-Loire,,,,,,,2020-03-04,,,hospital,,CP ARS Bourgogne-Franche-Comté,Patient leaves in Ain department
 ,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,visit to Mulhouse religious gathering,,,,2020-03-04,,,hospital,,CP ARS Bourgogne-Franche-Comté,
 ,,,France,Bourgogne-Franche-Comté,Haute-Saône,,,visit to Mulhouse religious gathering,,,,2020-03-04,,,hospital,,CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
-,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Doubs,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Doubs,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Doubs,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Doubs,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Doubs,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Doubs,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Doubs,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Doubs,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Saône-et-Loire,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Doubs,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Doubs,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Saône-et-Loire,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Doubs,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
+,,,France,Bourgogne-Franche-Comté,Saône-et-Loire,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering - Departement not sure 
 ,male,1948,France,Bretagne,Finistère,Plougonvelin,,visit to Egypt,,,,2020-02-27,,,hospital,,CP ARS Bretagne,
 ,female,,France,Bretagne,Finistère,Plougonvelin,,visit to Egypt,,,,2020-02-28,,,hospital,,CP ARS Bretagne,
 ,male,,France,Bretagne,Ille-et-Vilaine,Rennes,,visit to Oise,,,,2020-02-29,,,hospital,,CP ARS Bretagne,
@@ -312,74 +312,74 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Pays-de-la-Loire,Maine-et-Loire,,,,,,,2020-03-08,,,,,Pl5 – Bulletin d’information n°6 ARS Pays-de-la-Loire,
 ,,,France,Pays-de-la-Loire,Sarthe,,,,,,,2020-03-08,,,,,Pl5 – Bulletin d’information n°6 ARS Pays-de-la-Loire,
 ,,,France,Pays-de-la-Loire,Sarthe,,,,,,,2020-03-08,,,,,Pl5 – Bulletin d’information n°6 ARS Pays-de-la-Loire,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-08,,,,,Bfc9 – CP ARS Bourgogne-Franche-Comté,The report says that most of the patients are linked with Mulhouse religious gathering – Doubs and Territoire de Belfort are the main contamination places
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-08,,,,,Bfc9 – CP ARS Bourgogne-Franche-Comté,The report says that most of the patients are linked with Mulhouse religious gathering – Doubs and Territoire de Belfort are the main contamination places
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-08,,,,,Bfc9 – CP ARS Bourgogne-Franche-Comté,The report says that most of the patients are linked with Mulhouse religious gathering – Doubs and Territoire de Belfort are the main contamination places
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-08,,,,,Bfc9 – CP ARS Bourgogne-Franche-Comté,The report says that most of the patients are linked with Mulhouse religious gathering – Doubs and Territoire de Belfort are the main contamination places
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-08,,,,,Bfc9 – CP ARS Bourgogne-Franche-Comté,The report says that most of the patients are linked with Mulhouse religious gathering – Doubs and Territoire de Belfort are the main contamination places
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-08,,,,,Bfc9 – CP ARS Bourgogne-Franche-Comté,The report says that most of the patients are linked with Mulhouse religious gathering – Doubs and Territoire de Belfort are the main contamination places
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Haute-Saône,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Jura,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Côte-d'Or,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Saône-et-Loire,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Yonne,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Saône-et-Loire,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Haute-Saône,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Jura,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Côte-d'Or,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Saône-et-Loire,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Yonne,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-06,,,,,Bfc7 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Haute-Saône,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Jura,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Côte-d'Or,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Saône-et-Loire,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Yonne,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Haute-Saône,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Jura,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Côte-d'Or,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Saône-et-Loire,,,,,,,2020-03-07,,,,,Bfc8 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Yonne,,,,,,,2020-03-08,,,,,Bfc9 – CP ARS Bourgogne-Franche-Comté,The report says that most of the patients are linked with Mulhouse religious gathering – Doubs and Territoire de Belfort are the main contamination places
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-08,,,,,Bfc9 – CP ARS Bourgogne-Franche-Comté,The report says that most of the patients are linked with Mulhouse religious gathering – Doubs and Territoire de Belfort are the main contamination places
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-08,,,,,Bfc9 – CP ARS Bourgogne-Franche-Comté,The report says that most of the patients are linked with Mulhouse religious gathering – Doubs and Territoire de Belfort are the main contamination places
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-08,,,,,Bfc9 – CP ARS Bourgogne-Franche-Comté,The report says that most of the patients are linked with Mulhouse religious gathering – Doubs and Territoire de Belfort are the main contamination places
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-08,,,,,Bfc9 – CP ARS Bourgogne-Franche-Comté,The report says that most of the patients are linked with Mulhouse religious gathering – Doubs and Territoire de Belfort are the main contamination places
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-08,,,,,Bfc9 – CP ARS Bourgogne-Franche-Comté,The report says that most of the patients are linked with Mulhouse religious gathering – Doubs and Territoire de Belfort are the main contamination places
 ,female,,France,Nouvelle-Aquitaine,Lot-et-Garonne,,Mulhouse religious gathering,visit to Mulhouse religious gathering,,,,2020-03-07,,,hospital,good,Na8 – CP ARS Nouvelle Aquitaine,
 ,female,,France,Nouvelle-Aquitaine,Lot-et-Garonne,,Mulhouse religious gathering,visit to Mulhouse religious gathering,,,,2020-03-07,,,hospital,good,Na8 – CP ARS Nouvelle Aquitaine,
 ,female,,France,Nouvelle-Aquitaine,Lot-et-Garonne,,Mulhouse religious gathering,visit to Mulhouse religious gathering,,,,2020-03-07,,,hospital,good,Na8 – CP ARS Nouvelle Aquitaine,
@@ -422,13 +422,13 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,female,1938,France,Hauts-de-France,Oise,Nanteuil-le-Haudouin,,,,,,2020-03-08,,2020-03-07,deceased,deceased,HF15 – CP ARS Hauts-de-France,
 ,male,1937,France,Hauts-de-France,Oise,Saint-Vaast-les-Mello,,,,,,2020-03-08,,2020-03-08,deceased,deceased,HF15 – CP ARS Hauts-de-France,
 ,female,1935,France,Hauts-de-France,Pas-de-Calais,Leforest,,,,,,2020-03-09,,,hospital,,Hf16 – CP ARS Hauts-de-France,
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-09,,,,,Bfc10 – CP ARS Bourgogne-Franche-Comté,Most of the patients are in Doubs and Pôle métropolitain Nord Franche-Comté – no patients in Nièvre
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-09,,,,,Bfc10 – CP ARS Bourgogne-Franche-Comté,Most of the patients are in Doubs and Pôle métropolitain Nord Franche-Comté – no patients in Nièvre
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-09,,,,,Bfc10 – CP ARS Bourgogne-Franche-Comté,Most of the patients are in Doubs and Pôle métropolitain Nord Franche-Comté – no patients in Nièvre
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-09,,,,,Bfc10 – CP ARS Bourgogne-Franche-Comté,Most of the patients are in Doubs and Pôle métropolitain Nord Franche-Comté – no patients in Nièvre
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-09,,,,,Bfc10 – CP ARS Bourgogne-Franche-Comté,Most of the patients are in Doubs and Pôle métropolitain Nord Franche-Comté – no patients in Nièvre
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-09,,,,,Bfc10 – CP ARS Bourgogne-Franche-Comté,Most of the patients are in Doubs and Pôle métropolitain Nord Franche-Comté – no patients in Nièvre
-,,,France,Bourgogne-Franche-Comté,,,,,,,,2020-03-09,,,,,Bfc10 – CP ARS Bourgogne-Franche-Comté,Most of the patients are in Doubs and Pôle métropolitain Nord Franche-Comté – no patients in Nièvre
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-09,,,,,Bfc10 – CP ARS Bourgogne-Franche-Comté,Most of the patients are in Doubs and Pôle métropolitain Nord Franche-Comté – no patients in Nièvre
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-09,,2020-03-11,deceased,deceased,Bfc10 – CP ARS Bourgogne-Franche-Comté,"Most of the patients are in Doubs and Pôle métropolitain Nord Franche-Comté – no patients in Nièvre - Departement not sure – not sure if this is the patient who deceased – report says that a patient from Doubs is deceased, no more information "
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-09,,,,,Bfc10 – CP ARS Bourgogne-Franche-Comté,Most of the patients are in Doubs and Pôle métropolitain Nord Franche-Comté – no patients in Nièvre
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-09,,,,,Bfc10 – CP ARS Bourgogne-Franche-Comté,Most of the patients are in Doubs and Pôle métropolitain Nord Franche-Comté – no patients in Nièvre
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-09,,,,,Bfc10 – CP ARS Bourgogne-Franche-Comté,Most of the patients are in Doubs and Pôle métropolitain Nord Franche-Comté – no patients in Nièvre
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-09,,,,,Bfc10 – CP ARS Bourgogne-Franche-Comté,Most of the patients are in Doubs and Pôle métropolitain Nord Franche-Comté – no patients in Nièvre
+,,,France,Bourgogne-Franche-Comté,Saône-et-Loire,,,,,,,2020-03-09,,,,,Bfc10 – CP ARS Bourgogne-Franche-Comté,Most of the patients are in Doubs and Pôle métropolitain Nord Franche-Comté – no patients in Nièvre
 ,,,France,Normandie,Seine-Maritime,,,,,,,2020-03-09,,,home isolation,good,N6 – CP ARS Normandie,The report says that 2 people are in hospital in Normandie. We assume they are the 2 people already in hospital confirmed on march 5. Thus this patient is at home.
 ,,,France,Normandie,Seine-Maritime,,,,,,,2020-03-09,,,home isolation,good,N6 – CP ARS Normandie,The report says that 2 people are in hospital in Normandie. We assume they are the 2 people already in hospital confirmed on march 5. Thus this patient is at home.
 ,,,France,Normandie,Eure,,,,,,,2020-03-09,,,home isolation,good,N6 – CP ARS Normandie,The report says that 2 people are in hospital in Normandie. We assume they are the 2 people already in hospital confirmed on march 5. Thus this patient is at home.
@@ -709,3 +709,49 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Centre-Val de Loire,Loiret,,,,,,,2020-03-11,,,,,Cvl5 – Bulletin d’information n°4 ARS Centre-Val de Loire,"Date uncertain, between 9 March and 11 March"
 ,,,France,Centre-Val de Loire,Loiret,,,,,,,2020-03-11,,,,,Cvl5 – Bulletin d’information n°4 ARS Centre-Val de Loire,"Date uncertain, between 9 March and 11 March"
 ,,,France,Centre-Val de Loire,Indre-et-Loire,,,,,,,2020-03-11,,,,,Cvl5 – Bulletin d’information n°4 ARS Centre-Val de Loire,"Date uncertain, between 9 March and 11 March"
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Haute-Saône,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Jura,,,,,,,2020-03-10,,2020-03-11,deceased,deceased,Bfc11 – CP ARS Bourgogne-Franche-Comté,"Departement not sure – not sure if this is the patient who deceased – report says that a patient from Jura is deceased, no more information"
+,,,France,Bourgogne-Franche-Comté,Côte-d'Or,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Saône-et-Loire,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Yonne,,,,,,,2020-03-10,,2020-03-10,deceased,deceased,Bfc11 – CP ARS Bourgogne-Franche-Comté,"Departement not sure – not sure if this is the patient who deceased – report says that a patient from Paris area is deceased in Yonne, no more information"
+,,,France,Bourgogne-Franche-Comté,Nièvre,,,visit to Italy,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,
+,,,France,Bourgogne-Franche-Comté,Nièvre,,,visit to Italy,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Haute-Saône,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Jura,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Côte-d'Or,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Saône-et-Loire,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Yonne,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-10,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-11,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-11,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-11,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-11,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-11,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-11,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-11,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-11,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-11,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-11,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Nièvre,,,,,,,2020-03-11,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Yonne,,,,,,,2020-03-11,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Jura,,,,,,,2020-03-11,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Haute-Saône,,,,,,,2020-03-11,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Haute-Saône,,,,,,,2020-03-11,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-11,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,,,,,2020-03-11,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
+,,,France,Bourgogne-Franche-Comté,Doubs,,,,,,,2020-03-11,,,,,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure
