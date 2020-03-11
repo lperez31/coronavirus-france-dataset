@@ -638,3 +638,28 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Guyane,Guyane,Saint-Laurent du Maroni,Mulhouse Gathering,,,,,2020-03-04,,,,,Source France1ere,
 ,,,France,Martinique,Martinique,Trois Ilets,,,,,,2020-03-05,,,,,CP ARS Martinique,
 ,,,France,Martinique,Martinique,Trois Ilets,,,,,,2020-03-05,,,,,CP ARS Martinique,
+,male,,France,Nouvelle-Aquitaine,Corrèze,,,contact with patient,,,,2020-03-09,,,home isolation,good,Na10 – CP Nouvelle Aquitaine,Linked with patient who has visited Cuba
+,male,,France,Nouvelle-Aquitaine,Dordogne,,Dordogne famiily 1,contact with patient,,,,2020-03-09,,,home isolation,good,Na10 – CP Nouvelle Aquitaine,Linked with patient in Bretagne
+,female,,France,Nouvelle-Aquitaine,Dordogne,,Dordogne famiily 1,contact with patient,,,,2020-03-09,,,home isolation,good,Na10 – CP Nouvelle Aquitaine,Linked with patient in Bretagne
+,female,,France,Nouvelle-Aquitaine,Lot-et-Garonne,,Mulhouse Gathering,,,,,2020-03-09,,,home isolation,good,Na10 – CP Nouvelle Aquitaine,
+,female,,France,Nouvelle-Aquitaine,Lot-et-Garonne,,Mulhouse Gathering,,,,,2020-03-09,,,home isolation,good,Na10 – CP Nouvelle Aquitaine,
+,female,,France,Nouvelle-Aquitaine,Lot-et-Garonne,,Mulhouse Gathering,,,,,2020-03-09,,,home isolation,good,Na10 – CP Nouvelle Aquitaine,
+,male,,France,Nouvelle-Aquitaine,Lot-et-Garonne,,Mulhouse Gathering,,,,,2020-03-09,,,home isolation,good,Na10 – CP Nouvelle Aquitaine,
+,male,,France,Nouvelle-Aquitaine,Lot-et-Garonne,,Mulhouse Gathering,,,,,2020-03-09,,,home isolation,good,Na10 – CP Nouvelle Aquitaine,
+,male,,France,Nouvelle-Aquitaine,Vienne,,Vienne family 1,contact with patient,,,,2020-03-09,,,,,Na10 – CP Nouvelle Aquitaine,contact with a patient from Versailles
+,female,,France,Nouvelle-Aquitaine,Vienne,,Vienne family 1,contact with patient,,,,2020-03-09,,,,,Na10 – CP Nouvelle Aquitaine,contact with a patient from Versailles
+,male,,France,Nouvelle-Aquitaine,Charente-Maritime,,,contact with patient,,,,2020-03-10,,,home isolation,good,Na11 / na12 – CP Nouvelle Aquitaine,contact with a patient who has visited Italy
+,male,,France,Nouvelle-Aquitaine,Charente-Maritime,,,,,,,2020-03-10,,,home isolation,good,Na11 / na12 – CP Nouvelle Aquitaine,
+,male,,France,Nouvelle-Aquitaine,Charente-Maritime,,,,,,,2020-03-10,,,home isolation,good,Na11 / na12 – CP Nouvelle Aquitaine,
+,female,,France,Nouvelle-Aquitaine,Charente-Maritime,,,visit to Egypt,,,,2020-03-10,,,home isolation,good,Na11 / na12 – CP Nouvelle Aquitaine,
+,female,,France,Nouvelle-Aquitaine,Charente-Maritime,,,,,,,2020-03-10,,,home isolation,good,Na11 / na12 – CP Nouvelle Aquitaine,
+,female,,France,Nouvelle-Aquitaine,Charente-Maritime,,,,,,,2020-03-10,,,home isolation,good,Na11 / na12 – CP Nouvelle Aquitaine,
+,female,,France,Nouvelle-Aquitaine,Gironde,,Mulhouse Gathering,,,,,2020-03-10,,,home isolation,good,Na11 / na12 – CP Nouvelle Aquitaine,
+,male,,France,Nouvelle-Aquitaine,Lot-et-Garonne,,Mulhouse Gathering,,,,,2020-03-10,,,home isolation,good,Na11 / na12 – CP Nouvelle Aquitaine,
+,male,,France,Nouvelle-Aquitaine,Lot-et-Garonne,,Mulhouse Gathering,,,,,2020-03-10,,,home isolation,good,Na11 / na12 – CP Nouvelle Aquitaine,
+,male,,France,Nouvelle-Aquitaine,Lot-et-Garonne,,Mulhouse Gathering,,,,,2020-03-10,,,home isolation,good,Na11 / na12 – CP Nouvelle Aquitaine,
+,female,,France,Nouvelle-Aquitaine,Lot-et-Garonne,,Mulhouse Gathering,,,,,2020-03-10,,,home isolation,good,Na11 / na12 – CP Nouvelle Aquitaine,
+,female,,France,Nouvelle-Aquitaine,Lot-et-Garonne,,Mulhouse Gathering,,,,,2020-03-10,,,home isolation,good,Na11 / na12 – CP Nouvelle Aquitaine,
+,female,,France,Nouvelle-Aquitaine,Lot-et-Garonne,,Mulhouse Gathering,,,,,2020-03-10,,,home isolation,good,Na11 / na12 – CP Nouvelle Aquitaine,
+,female,,France,Nouvelle-Aquitaine,Lot-et-Garonne,,Mulhouse Gathering,,,,,2020-03-10,,,home isolation,good,Na11 / na12 – CP Nouvelle Aquitaine,
+,female,,France,Nouvelle-Aquitaine,Vienne,,,visit to Bretagne,,,,2020-03-10,,,home isolation,good,Na11 / na12 – CP Nouvelle Aquitaine,
