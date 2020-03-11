@@ -74,9 +74,9 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Bourgogne-Franche-Comté,,,group B,,,,,2020-03-03,,,hospital,,CP ARS Bourgogne-Franche-Comté,
 ,,,France,Bourgogne-Franche-Comté,,,group B,,,,,2020-03-03,,,hospital,,CP ARS Bourgogne-Franche-Comté,
 ,,,France,Bourgogne-Franche-Comté,,,group B,,,,,2020-03-03,,,hospital,,CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,Saöne-et-Loire,,,visit to Italy,,,,2020-03-03,,,hospital,,CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,Côte d’Or,,,,,,,2020-03-04,,,hospital,,CP ARS Bourgogne-Franche-Comté,
-,,,France,Bourgogne-Franche-Comté,Saöne-et-Loire,,,,,,,2020-03-04,,,hospital,,CP ARS Bourgogne-Franche-Comté,Patient leaves in Ain department
+,,,France,Bourgogne-Franche-Comté,Saône-et-Loire,,,visit to Italy,,,,2020-03-03,,,hospital,,CP ARS Bourgogne-Franche-Comté,
+,,,France,Bourgogne-Franche-Comté,Côte-d’Or,,,,,,,2020-03-04,,,hospital,,CP ARS Bourgogne-Franche-Comté,
+,,,France,Bourgogne-Franche-Comté,Saône-et-Loire,,,,,,,2020-03-04,,,hospital,,CP ARS Bourgogne-Franche-Comté,Patient leaves in Ain department
 ,,,France,Bourgogne-Franche-Comté,Territoire de Belfort,,,visit to Mulhouse religious gathering,,,,2020-03-04,,,hospital,,CP ARS Bourgogne-Franche-Comté,
 ,,,France,Bourgogne-Franche-Comté,Haute-Saône,,,visit to Mulhouse religious gathering,,,,2020-03-04,,,hospital,,CP ARS Bourgogne-Franche-Comté,
 ,,,France,Bourgogne-Franche-Comté,,,,visit to Mulhouse religious gathering,,,,2020-03-05,,,hospital,,CP ARS Bourgogne-Franche-Comté,The report says that most of the 25 patients  of the day are linked with Mulhouse religious gathering
@@ -630,7 +630,7 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Bretagne,Ille-et-Vilaine,,,,,,,2020-03-09,,,,,CP ARS Bretagne,
 ,female,,France,Saint-Martin,Saint-Martin,Saint-Martin,,,,,,2020-03-01,,,,,CP ARS Guadeloupe,
 ,male,,France,Saint-Martin,Saint-Martin,Saint-Martin,,,,,,2020-03-01,,,,,CP ARS Guadeloupe,
-,male,,France,Saint-Barthelemy,Saint-Barthelemy,Saint-Barthelemy,,,,,,2020-03-01,,,,,CP ARS Guadeloupe,
+,male,,France,Saint-Barthélémy,Saint-Barthélémy,Saint-Barthélémy,,,,,,2020-03-01,,,,,CP ARS Guadeloupe,
 ,,,France,Guyane,Guyane,Saint-Laurent du Maroni,Mulhouse Gathering,,,,,2020-03-04,,,,,Source France1ere,
 ,,,France,Guyane,Guyane,Saint-Laurent du Maroni,Mulhouse Gathering,,,,,2020-03-04,,,,,Source France1ere,
 ,,,France,Guyane,Guyane,Saint-Laurent du Maroni,Mulhouse Gathering,,,,,2020-03-04,,,,,Source France1ere,
