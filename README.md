@@ -2,6 +2,10 @@
 
 **Ce projet a besoin de contributeurs. Aidez-nous à maintenir ce dataset à jour. Nous avons besoin d'un contributeur pour chaque région française.**
 
+## Visualisation
+
+Une visualisation des données [est disponible en cliquant ici](https://app.powerbi.com/view?r=eyJrIjoiZWUyM2YzNmItMDE3My00ZTQ1LWI5YTEtNzE5ZDAyZjRhMGU5IiwidCI6ImQwYjE3MTZmLWQ5NDEtNGNjMy1iNWY5LWU0MmViMzdmZDgwYiIsImMiOjh9). 
+
 ## Disclaimer
 
 Le dataset n'est pas encore complet. Il contient les données publiées avant le 8 mars 2020 pour les régions :
