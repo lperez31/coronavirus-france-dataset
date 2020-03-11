@@ -516,13 +516,13 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Auvergne-Rhône-Alpes,Rhône,,Mulhouse religious gathering,,,,,2020-03-05,,,hospital,,Ara7 – CP ARS Auvergne-Rhône-Alpes,
 ,,,France,Auvergne-Rhône-Alpes,Rhône,,Mulhouse religious gathering,,,,,2020-03-05,,,hospital,,Ara7 – CP ARS Auvergne-Rhône-Alpes,
 ,,,France,Auvergne-Rhône-Alpes,Rhône,,Mulhouse religious gathering,,,,,2020-03-05,,,hospital,,Ara7 – CP ARS Auvergne-Rhône-Alpes,
-,male,1970,France,Auvergne-Rhône-Alpes,Puy-de-Dôme,Puy-de-Dôme,Mulhouse religious gathering,,,,,2020-03-05,,,hospital,good,Ara8 – CP ARS Auvergne-Rhône-Alpes,
-,female,1970,France,Auvergne-Rhône-Alpes,Puy-de-Dôme,Puy-de-Dôme,Mulhouse religious gathering,,,,,2020-03-05,,,hospital,good,Ara8 – CP ARS Auvergne-Rhône-Alpes,
-,female,1970,France,Auvergne-Rhône-Alpes,Puy-de-Dôme,Puy-de-Dôme,Mulhouse religious gathering,,,,,2020-03-05,,,hospital,good,Ara8 – CP ARS Auvergne-Rhône-Alpes,
+,male,1970,France,Auvergne-Rhône-Alpes,Puy-de-Dôme,,Mulhouse religious gathering,,,,,2020-03-05,,,hospital,good,Ara8 – CP ARS Auvergne-Rhône-Alpes,
+,female,1970,France,Auvergne-Rhône-Alpes,Puy-de-Dôme,,Mulhouse religious gathering,,,,,2020-03-05,,,hospital,good,Ara8 – CP ARS Auvergne-Rhône-Alpes,
+,female,1970,France,Auvergne-Rhône-Alpes,Puy-de-Dôme,,Mulhouse religious gathering,,,,,2020-03-05,,,hospital,good,Ara8 – CP ARS Auvergne-Rhône-Alpes,
 ,female,1970,France,Auvergne-Rhône-Alpes,Ardèche,Charmes-sur-Rhône,Mulhouse religious gathering,,,,,2020-03-06,,,hospital,,Ara9 – CP ARS Auvergne-Rhône-Alpes,
 ,male,1970,France,Auvergne-Rhône-Alpes,Ardèche,Charmes-sur-Rhône,Mulhouse religious gathering,,,,,2020-03-06,,,hospital,,Ara9 – CP ARS Auvergne-Rhône-Alpes,
-,,2004,France,Auvergne-Rhône-Alpes,Puy-de-Dôme,Puy-de-Dôme,Mulhouse religious gathering,,,,,2020-03-06,,,hospital,good,Ara10 – CP ARS Auvergne-Rhône-Alpes,
-,,2011,France,Auvergne-Rhône-Alpes,Puy-de-Dôme,Puy-de-Dôme,Mulhouse religious gathering,,,,,2020-03-06,,,hospital,good,Ara10 – CP ARS Auvergne-Rhône-Alpes,
+,,2004,France,Auvergne-Rhône-Alpes,Puy-de-Dôme,,Mulhouse religious gathering,,,,,2020-03-06,,,hospital,good,Ara10 – CP ARS Auvergne-Rhône-Alpes,
+,,2011,France,Auvergne-Rhône-Alpes,Puy-de-Dôme,,Mulhouse religious gathering,,,,,2020-03-06,,,hospital,good,Ara10 – CP ARS Auvergne-Rhône-Alpes,
 ,male,1970,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-06,,,hospital,,Ara11 – CP ARS Auvergne-Rhône-Alpes,
 ,male,1939,France,Auvergne-Rhône-Alpes,Savoie,,,,,,,2020-03-06,,2020-03-09,deceased,deceased,Ara15 – CP ARS Auvergne-Rhône-Alpes,
 ,,,France,Auvergne-Rhône-Alpes,Haute-Savoie,,,,,,,2020-03-06,,,hospital,,Ara12 – CP ARS Auvergne-Rhône-Alpes,
@@ -581,13 +581,13 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Auvergne-Rhône-Alpes,Haute-Savoie,,,,,,,2020-03-07,,,hospital,,Ara13 – CP ARS Auvergne-Rhône-Alpes,
 ,,,France,Auvergne-Rhône-Alpes,Haute-Savoie,,,,,,,2020-03-07,,,home isolation,,Ara13 – CP ARS Auvergne-Rhône-Alpes,
 ,,,France,Auvergne-Rhône-Alpes,Haute-Savoie,,,,,,,2020-03-07,,,home isolation,,Ara13 – CP ARS Auvergne-Rhône-Alpes,
-,female,1949,France,Auvergne-Rhône-Alpes,Isère,,Mulhouse religious gathering,,,,,2020-03-07,,,hospital,,Ara 14 – CP ARS Auvergne-Rhône-Alpes,
+,female,1949,France,Auvergne-Rhône-Alpes,Isère,,Mulhouse religious gathering,,,,,2020-03-07,,,hospital,,Ara 14 – CP ARS Auvergne-Rhône-Alpes,Patient from Ile-de-France (not counted in total of Auvergne-Rhône-Alpes)
 ,female,1940,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-08,,,hospital,,Ara 14 – CP ARS Auvergne-Rhône-Alpes,
 ,,,France,Auvergne-Rhône-Alpes,Ardèche,,,,,,,2020-03-08,,,,,Ara 14 – CP ARS Auvergne-Rhône-Alpes,
-,,,France,Auvergne-Rhône-Alpes,Loire,,Mulhouse religious gathering,,,,,2020-03-08,,,,,Ara 14 – CP ARS Auvergne-Rhône-Alpes,
-,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-08,,,,,Ara 14 – CP ARS Auvergne-Rhône-Alpes,
-,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-08,,,,,Ara 14 – CP ARS Auvergne-Rhône-Alpes,
-,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-08,,,,,Ara 14 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Loire,,Mulhouse religious gathering,,,,,2020-03-08,,,,,Ara 14 – CP ARS Auvergne-Rhône-Alpes,Some linked with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-08,,,,,Ara 14 – CP ARS Auvergne-Rhône-Alpes,Some linked with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-08,,,,,Ara 14 – CP ARS Auvergne-Rhône-Alpes,Some linked with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-08,,,,,Ara 14 – CP ARS Auvergne-Rhône-Alpes,Some linked with Mulhouse cluster
 ,male,1990,France,Auvergne-Rhône-Alpes,Puy-de-Dôme,,,,,,,2020-03-08,,,,good,Ara 14 – CP ARS Auvergne-Rhône-Alpes,
 ,female,1990,France,Auvergne-Rhône-Alpes,Puy-de-Dôme,,,,,,,2020-03-08,,,,good,Ara 14 – CP ARS Auvergne-Rhône-Alpes,
 ,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-08,,,,,Ara 14 – CP ARS Auvergne-Rhône-Alpes,
@@ -777,3 +777,77 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Bretagne,Morbihan,,Cluster Auray,,,,,2020-03-11,,,,,CP ARS Bretagne,
 ,,,France,Bretagne,Ille-et-Vilaine,,,,,,,2020-03-11,,,,,CP ARS Bretagne,
 ,,,France,Bretagne,Ille-et-Vilaine,,,,,,,2020-03-11,,,,,CP ARS Bretagne,
+,female,1960,France,Auvergne-Rhône-Alpes,Isère,,,,,,,2020-03-09,,,hospital,critical,Ara16 – CP ARS Auvergne-Rhône-Alpes,In intensive care unit
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,"Reports says that some visited Italy, some from Mulhouse cluster"
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,"Reports says that some visited Italy, some from Mulhouse cluster"
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,"Reports says that some visited Italy, some from Mulhouse cluster"
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,"Reports says that some visited Italy, some from Mulhouse cluster"
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,"Reports says that some visited Italy, some from Mulhouse cluster"
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,"Reports says that some visited Italy, some from Mulhouse cluster"
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,"Reports says that some visited Italy, some from Mulhouse cluster"
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,"Reports says that some visited Italy, some from Mulhouse cluster"
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,"Reports says that some visited Italy, some from Mulhouse cluster"
+,,,France,Auvergne-Rhône-Alpes,Ardèche,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,Most linked with Mulhouse cluster (direct or indirect)
+,,,France,Auvergne-Rhône-Alpes,Ardèche,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,Most linked with Mulhouse cluster (direct or indirect)
+,,,France,Auvergne-Rhône-Alpes,Ardèche,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,Most linked with Mulhouse cluster (direct or indirect)
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Puy-de-Dôme,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Puy-de-Dôme,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Haute-Savoie,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Drôme,,,,,,,2020-03-10,,,,,Ara18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Drôme,,,,,,,2020-03-10,,,,,Ara18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Drôme,,,,,,,2020-03-10,,,,,Ara18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Drôme,,,,,,,2020-03-10,,,,,Ara18 – CP ARS Auvergne-Rhône-Alpes,
+,,1990,France,Auvergne-Rhône-Alpes,Isère,,,contact with patient,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Indirect link with Mulhouse cluster
+,,1990,France,Auvergne-Rhône-Alpes,Isère,,,contact with patient,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,2010,France,Auvergne-Rhône-Alpes,Puy-de-Dôme,,,visit to Italy,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,1960,France,Auvergne-Rhône-Alpes,Puy-de-Dôme,,,,,,,2020-03-10,,,hospital,critical,Ara 18 – CP ARS Auvergne-Rhône-Alpes,In intensive care unit
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,1990,France,Auvergne-Rhône-Alpes,Savoie,,Mulhouse religious gathering,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Haute-Savoie,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Haute-Savoie,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Haute-Savoie,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Haute-Savoie,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Haute-Savoie,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
