@@ -5,14 +5,17 @@
 ## Disclaimer
 
 Le dataset n'est pas encore complet. Il contient les données publiées avant le 7 mars 2020 pour les régions :
-  * Nouvelle-Aquitaine (jusqu'au 8 mars)
+  * Nouvelle-Aquitaine (jusqu'au 10 mars)
   * Occitanie (jusqu'au 8 mars)
-  * Hauts-de-France (jusqu'au 9 mars milieu de journée)
-  * Normandie (jusqu'au 8 mars milieu de journée)
-  * Pays de la Loire (jusqu'au 8 mars 13h)
-  * Bourgogne Franche Comté (jusqu'au 8 mars 14h)
-  * Bretagne (jusqu'au 7 mars)
-  * PACA (jusqu'au 7 mars)
+  * Hauts-de-France (jusqu'au 9 mars)
+  * Normandie (jusqu'au 9 mars)
+  * Pays de la Loire (jusqu'au 9)
+  * Bourgogne Franche Comté (jusqu'au 9 mars)
+  * Bretagne (jusqu'au 9 mars)
+  * PACA (jusqu'au 10 mars)
+  * Centre-Val de Loire (jusqu'au 8 mars)
+  * Auvergne-Rhône-Alpes (jusqu'au 8 mars)
+  * Outre-mer (jusqu'au 9 mars)
 
 Il est fourni sans garantie et peut contenir des erreurs ou omissions.
 
@@ -50,4 +53,4 @@ Ce dataset s'inspire d'un travail similaire réalisé en Corée : https://github
 
 Ce dataset est soumis à la licence CC-BY 4.0.
 
-Contributeurs : Lior Perez, Samia Drappeau, Manon Fourniol
+Contributeurs : Lior Perez, Samia Drappeau, Manon Fourniol, Zoragna
