@@ -656,8 +656,8 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Guyane,Guyane,Saint-Laurent du Maroni,Mulhouse Gathering,,,,,2020-03-04,,,,,Source France1ere,
 ,,,France,Guyane,Guyane,Saint-Laurent du Maroni,Mulhouse Gathering,,,,,2020-03-04,,,,,Source France1ere,
 ,,,France,Guyane,Guyane,Saint-Laurent du Maroni,Mulhouse Gathering,,,,,2020-03-04,,,,,Source France1ere,
-,,,France,Martinique,Martinique,Trois Ilets,,,,,,2020-03-05,,,,,CP ARS Martinique,
-,,,France,Martinique,Martinique,Trois Ilets,,,,,,2020-03-05,,,,,CP ARS Martinique,
+,,,France,Martinique,Martinique,Trois Ilets,,,,,,2020-03-05,,,hospital,,CP ARS Martinique,
+,,,France,Martinique,Martinique,Trois Ilets,,,,,,2020-03-05,,,hospital,,CP ARS Martinique,
 ,male,,France,Nouvelle-Aquitaine,Corrèze,,,contact with patient,,,,2020-03-09,,,home isolation,good,Na10 – CP Nouvelle Aquitaine,Linked with patient who has visited Cuba
 ,male,,France,Nouvelle-Aquitaine,Dordogne,,Dordogne famiily 1,contact with patient,,,,2020-03-09,,,home isolation,good,Na10 – CP Nouvelle Aquitaine,Linked with patient in Bretagne
 ,female,,France,Nouvelle-Aquitaine,Dordogne,,Dordogne famiily 1,contact with patient,,,,2020-03-09,,,home isolation,good,Na10 – CP Nouvelle Aquitaine,Linked with patient in Bretagne
@@ -1896,3 +1896,8 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Occitanie,Gers,,,,,,,2020-03-11,,,,,O18 – Bulletin d’information ARS Occitanie,
 ,,,France,Occitanie,Gers,,,,,,,2020-03-11,,,,,O18 – Bulletin d’information ARS Occitanie,
 ,,,France,Occitanie,Hautes-Pyrénées,,,,,,,2020-03-11,,,,,O18 – Bulletin d’information ARS Occitanie,
+,female,1969,France,Martinique,Martinique,Trinite,,,,,,2020-03-09,,,,,CP ARS Martinique,Probable lien avec le cluster de Mulhouse
+,male,1940,France,La Reunion,La Reunion,,,,,,,2020-03-11,,,hospital,,CP ARS La Reunion,
+,,,France,La Reunion,La Reunion,,,,,,,2020-03-12,,,hospital,,CP ARS La Reunion,
+,,,France,La Reunion,La Reunion,,,,,,,2020-03-12,,,hospital,,CP ARS La Reunion,
+,,,France,La Reunion,La Reunion,,,,,,,2020-03-12,,,hospital,,CP ARS La Reunion,
