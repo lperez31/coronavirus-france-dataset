@@ -174,94 +174,114 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,female,1975,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
 ,female,1955,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
 ,male,1951,France,PACA,Alpes-Maritimes,Nice,Italian,Italian,,,,2020-03-07,,,hospital,critical,CP ARS PACA,
-,male,,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,,,CP ARS PACA,
-,male,,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,,,CP ARS PACA,
-,male,,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,,,CP ARS PACA,
-,female,,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,,,CP ARS PACA,
-,female,,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,,,CP ARS PACA,
-,female,,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,,,CP ARS PACA,
-,female,,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,,,CP ARS PACA,
-,female,2017,France,PACA,Alpes-Maritimes,Lenval,,,,,,2020-03-07,,,,,CP ARS PACA,
-,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-07,,,,,CP ARS PACA,
-,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-10,,,,,CP ARS PACA,
-,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-10,,,,,CP ARS PACA,
-,female,1966,France,PACA,Alpes-Maritimes,Cannes,,,,,,2020-03-07,,,,,CP ARS PACA,54 years old
-,male,1964,France,PACA,Alpes-Maritimes,Cannes,,,,,,2020-03-07,,,,,CP ARS PACA,56 years old
-,male,1957,France,PACA,Alpes-Maritimes,La Tour,,,,,,2020-03-07,,,,,CP ARS PACA,63 years old
-,female,,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 4,,,,,2020-03-04,,,,,CP ARS PACA,parent
-,male,,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 4,,,,,2020-03-04,,,,,CP ARS PACA,parent
-,,2010,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 4,,,,,2020-03-04,,,,,CP ARS PACA,child in elementary school : CM1 school Bensa in Marseille. Birth year approximative.
-,,,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 4,,,,,2020-03-04,,,,,CP ARS PACA,child
-,female,,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 3,,,,,2020-03-04,,,,,CP ARS PACA,parent
-,male,,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 3,,,,,2020-03-04,,,,,CP ARS PACA,parent
-,,,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 3,,,,,2020-03-04,,,,,CP ARS PACA,child
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,male,1961,France,PACA,Bouches-du-Rhône,Salon-de-Provence,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,,,CP ARS PACA,
-,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,,,CP ARS PACA,
-,male,,France,PACA,Hautes-Alpes,Briançon,,,,,,2020-03-07,,,,,CP ARS PACA,
-,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-07,,,,,CP ARS PACA,
-,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-07,,,,,CP ARS PACA,
-,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-07,,,,,CP ARS PACA,
-,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-07,,,,,CP ARS PACA,
-,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-10,,,,,CP ARS PACA,
-,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-10,,,,,CP ARS PACA,
-,female,,France,PACA,Var,Six-Four-les-Plages,,visit to Lombardy,,,,2020-03-06,,,,,CP ARS PACA,
-,female,2009,France,PACA,Var,Six-Four-les-Plages,,visit to Mulhouse,,,,2020-03-07,,,,,CP ARS PACA,
-,,,France,PACA,Var,,,,,,,2020-03-07,,,,,CP ARS PACA,
-,,,France,PACA,Var,,,,,,,2020-03-07,,,,,CP ARS PACA,
-,,,France,PACA,Var,,,,,,,2020-03-07,,,,,CP ARS PACA,
-,,,France,PACA,Var,,,,,,,2020-03-08,,,,,CP ARS PACA,
-,,,France,PACA,Var,,,,,,,2020-03-08,,,,,CP ARS PACA,
-,,,France,PACA,Var,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Var,,,,,,,2020-03-09,,,,,CP ARS PACA,
-,,,France,PACA,Var,,,,,,,2020-03-10,,,,,CP ARS PACA,
+,male,,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
+,male,,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
+,male,,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
+,female,,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
+,female,,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
+,female,,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
+,female,,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
+,female,2017,France,PACA,Alpes-Maritimes,Lenval,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
+,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
+,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-0900,,,hospital,,CP ARS PACA,
+,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-10,,,hospital,,CP ARS PACA,
+,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-10,,,hospital,,CP ARS PACA,
+,female,1966,France,PACA,Alpes-Maritimes,Cannes,,,,,,2020-03-07,,,hospital,,CP ARS PACA,54 years old
+,male,1964,France,PACA,Alpes-Maritimes,Cannes,,,,,,2020-03-07,,,hospital,,CP ARS PACA,56 years old
+,male,1957,France,PACA,Alpes-Maritimes,La Tour,,,,,,2020-03-07,,,hospital,,CP ARS PACA,63 years old
+,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-11,,,hospital,,CP ARS PACA,
+,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-11,,,hospital,,CP ARS PACA,
+,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-11,,,hospital,,CP ARS PACA,
+,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-11,,,hospital,,CP ARS PACA,
+,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-11,,,hospital,,CP ARS PACA,
+,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-11,,,hospital,,CP ARS PACA,
+,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-11,,,hospital,,CP ARS PACA,
+,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-11,,,hospital,,CP ARS PACA,
+,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-11,,,hospital,,CP ARS PACA,
+,female,,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 4,,,,,2020-03-04,,,hospital,,CP ARS PACA,parent
+,male,,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 4,,,,,2020-03-04,,,hospital,,CP ARS PACA,parent
+,,2010,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 4,,,,,2020-03-04,,,hospital,,CP ARS PACA,child in elementary school : CM1 school Bensa in Marseille. Birth year approximative.
+,,,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 4,,,,,2020-03-04,,,hospital,,CP ARS PACA,child
+,female,,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 3,,,,,2020-03-04,,,hospital,,CP ARS PACA,parent
+,male,,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 3,,,,,2020-03-04,,,hospital,,CP ARS PACA,parent
+,,,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 3,,,,,2020-03-04,,,hospital,,CP ARS PACA,child
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,male,1961,France,PACA,Bouches-du-Rhône,Salon-de-Provence,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-10,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-11,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-11,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-11,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-11,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-11,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-11,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-11,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-11,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-11,,,hospital,,CP ARS PACA,
+,male,,France,PACA,Hautes-Alpes,Briançon,,,,,,2020-03-07,,,hospital,,CP ARS PACA,policier
+,male,,France,PACA,Hautes-Alpes,Briançon,,visit to Mulhouse,,,,2020-03-07,,,hospital,,CP ARS PACA,pretre evangélique
+,male,,France,PACA,Hautes-Alpes,Bernwiller ,,,,,,2020-03-07,,,hospital,,CP ARS PACA,médecin
+,male,,France,PACA,Hautes-Alpes,Briançon,,,,,,2020-03-07,,,hospital,,CP ARS PACA,policier
+,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
+,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-10,,,hospital,,CP ARS PACA,
+,female,,France,PACA,Var,Six-Four-les-Plages,,visit to Lombardy,,,,2020-03-06,,,hospital,,CP ARS PACA,
+,female,2009,France,PACA,Var,Six-Four-les-Plages,,visit to Mulhouse,,,,2020-03-07,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-08,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-08,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-10,,,hospital,,CP ARS PACA,
 ,female,1961,France,PACA,Var,Sanary,,,,,,2020-03-10,,,hospital,,CP ARS PACA,
-,female,1931,France,PACA,Vaucluse,Valréas,From Nyons (Drôme),,,,,2020-03-04,,2020-03-08,deceased,,CP ARS PACA,hospitalized in Marseille
+,,,France,PACA,Var,,,,,,,2020-03-11,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-11,,,hospital,,CP ARS PACA,
+,male,1951,France,PACA,Vaucluse,,,,,,,2020-03-11,,,hospital,,CP ARS PACA,hospitalized in Marseille
 ,,,France,PACA,Vaucluse,Avignon,,,,,,2020-03-05,,,hospital,,CP ARS PACA,
 ,,,France,PACA,Vaucluse,,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
-,,,France,PACA,Vaucluse,,,,,,,2020-03-08,,,hospital,,CP ARS PACA,
+,,,France,PACA,Vaucluse,,,,,,,2020-03-08,,,released,good,CP ARS PACA,
 ,,,France,PACA,Alpes-de-Haute-Provence,Sisteron,,,,,,2020-03-09,,,hospital,,CP ARS PACA,
 ,,,France,PACA,Alpes-de-Haute-Provence,Digne-les-Bains,,,,,,2020-03-10,,,hospital,,CP ARS PACA,
+,,,France,PACA,Alpes-de-Haute-Provence,Monêtier-les-Bains,,,,,,2020-03-11,,,hospital,,CP ARS PACA,
 ,female,,France,Hauts-de-France,Nord,,,visit to Italy,,,,2020-03-04,,,hospital,,CP ARS Hauts-de-France,source : hf3
 ,male,1947,France,Hauts-de-France,Oise,Crépy-en-Valois,Crépy-en-Valois,,,,,2020-02-29,,2020-03-04,deceased,,CP ARS Hauts-de-France,source : hf4
 ,male,1941,France,Hauts-de-France,Oise,Crépy-en-Valois,Crépy-en-Valois,,,,,2020-03-05,,2020-03-05,deceased,,CP ARS Hauts-de-France,"source : hf6 – confirmed date not certain, this patient was not mentioned in previous communications, hospitalized since 2020-02-28"
@@ -610,7 +630,7 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Bretagne,Morbihan,Surzur,,,,,,2020-03-08,,,,,CP ARS Bretagne,
 ,,,France,Bretagne,Morbihan,La Trinité-sur-Mer,,,,,,2020-03-08,,,,,CP ARS Bretagne,
 ,,,France,Bretagne,Morbihan,Landévant,,,,,,2020-03-08,,,,,CP ARS Bretagne,
-,,,France,Bretagne,Morbihan,Lorient,,,,,,2020-03-08,,,,,CP ARS Bretagne,
+,,,France,Bretagne,Morbihan,,,,,,,2020-03-08,,,,,CP ARS Bretagne,
 ,,,France,Bretagne,Morbihan,,,,,,,2020-03-08,,,,,CP ARS Bretagne,
 ,,,France,Bretagne,Morbihan,,,,,,,2020-03-08,,,,,CP ARS Bretagne,
 ,,,France,Bretagne,Morbihan,,,,,,,2020-03-08,,,,,CP ARS Bretagne,
@@ -777,9 +797,80 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Bretagne,Morbihan,,Cluster Auray,,,,,2020-03-11,,,,,CP ARS Bretagne,
 ,,,France,Bretagne,Ille-et-Vilaine,,,,,,,2020-03-11,,,,,CP ARS Bretagne,
 ,,,France,Bretagne,Ille-et-Vilaine,,,,,,,2020-03-11,,,,,CP ARS Bretagne,
-,Male,1970,France,Grand-Est,Aisne,,,,,,,2020-03-02,,,hospital,critical,DNA Derniere Nouvelles d'Alsace,
-,Female,,France,Grand-Est,Aisne,,,,,,,2020-03-02,,,hospital,good,DNA Derniere Nouvelles d'Alsace,
-,Male,1994,France,Grand-Est,Aisne,,,,,,,2020-03-02,,,hospital,good,DNA Derniere Nouvelles d'Alsace,
+,female,1960,France,Auvergne-Rhône-Alpes,Isère,,,,,,,2020-03-09,,,hospital,critical,Ara16 – CP ARS Auvergne-Rhône-Alpes,In intensive care unit
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,"Reports says that some visited Italy, some from Mulhouse cluster"
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,"Reports says that some visited Italy, some from Mulhouse cluster"
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,"Reports says that some visited Italy, some from Mulhouse cluster"
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,"Reports says that some visited Italy, some from Mulhouse cluster"
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,"Reports says that some visited Italy, some from Mulhouse cluster"
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,"Reports says that some visited Italy, some from Mulhouse cluster"
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,"Reports says that some visited Italy, some from Mulhouse cluster"
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,"Reports says that some visited Italy, some from Mulhouse cluster"
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,"Reports says that some visited Italy, some from Mulhouse cluster"
+,,,France,Auvergne-Rhône-Alpes,Ardèche,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,Most linked with Mulhouse cluster (direct or indirect)
+,,,France,Auvergne-Rhône-Alpes,Ardèche,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,Most linked with Mulhouse cluster (direct or indirect)
+,,,France,Auvergne-Rhône-Alpes,Ardèche,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,Most linked with Mulhouse cluster (direct or indirect)
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Puy-de-Dôme,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Puy-de-Dôme,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Haute-Savoie,,,,,,,2020-03-09,,,,,Ara 17 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Ain,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Drôme,,,,,,,2020-03-10,,,,,Ara18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Drôme,,,,,,,2020-03-10,,,,,Ara18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Drôme,,,,,,,2020-03-10,,,,,Ara18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Drôme,,,,,,,2020-03-10,,,,,Ara18 – CP ARS Auvergne-Rhône-Alpes,
+,,1990,France,Auvergne-Rhône-Alpes,Isère,,,contact with patient,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Indirect link with Mulhouse cluster
+,,1990,France,Auvergne-Rhône-Alpes,Isère,,,contact with patient,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,,France,Auvergne-Rhône-Alpes,Loire,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,Direct or indirect link with Mulhouse cluster
+,,2010,France,Auvergne-Rhône-Alpes,Puy-de-Dôme,,,visit to Italy,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,1960,France,Auvergne-Rhône-Alpes,Puy-de-Dôme,,,,,,,2020-03-10,,,hospital,critical,Ara 18 – CP ARS Auvergne-Rhône-Alpes,In intensive care unit
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Rhône,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,1990,France,Auvergne-Rhône-Alpes,Savoie,,Mulhouse religious gathering,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Haute-Savoie,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Haute-Savoie,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Haute-Savoie,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Haute-Savoie,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
+,,,France,Auvergne-Rhône-Alpes,Haute-Savoie,,,,,,,2020-03-10,,,,,Ara 18 – CP ARS Auvergne-Rhône-Alpes,
 ,Male,1963,France,Grand-Est,Haut-Rhin,Hesingue,,,,,,2020-03-02,,,,,DNA Derniere Nouvelles d'Alsace,
 ,Female,1993,France,Grand-Est,Haut-Rhin,Hesingue,,,,,,2020-03-02,,,,,DNA Derniere Nouvelles d'Alsace,
 ,,2019,France,Grand-Est,Haut-Rhin,Hesingue,,,,,,2020-03-02,,,,,DNA Derniere Nouvelles d'Alsace,
