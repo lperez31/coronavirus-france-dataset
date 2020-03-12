@@ -8,9 +8,9 @@ Une visualisation des données [est disponible en cliquant ici](https://app.powe
 
 ## Disclaimer
 
-Le dataset n'est pas encore complet. Il contient les données publiées avant le 8 mars 2020 pour les régions :
-  * Nouvelle-Aquitaine (jusqu'au 10 mars)
-  * Occitanie (jusqu'au 10 mars)
+Le dataset n'est pas encore complet. Il contient les données pour les régions :
+  * Nouvelle-Aquitaine (jusqu'au 12 mars)
+  * Occitanie (jusqu'au 11 mars)
   * Hauts-de-France (jusqu'au 9 mars)
   * Normandie (jusqu'au 9 mars)
   * Pays de la Loire (jusqu'au 9)
