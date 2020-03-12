@@ -58,4 +58,4 @@ Ce dataset s'inspire d'un travail similaire réalisé en Corée : https://github
 
 Ce dataset est soumis à la licence CC-BY 4.0.
 
-Contributeurs : Lior Perez, Samia Drappeau, Manon Fourniol, Zoragna
+Contributeurs : Lior Perez, Samia Drappeau, Manon Fourniol, Zoragna, Raphaël Presberg
