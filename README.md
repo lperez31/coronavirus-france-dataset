@@ -15,11 +15,11 @@ Le dataset n'est pas encore complet. Il contient les données pour les régions 
   * Normandie (jusqu'au 9 mars)
   * Pays de la Loire (jusqu'au 9)
   * Bourgogne Franche Comté (jusqu'au 11 mars) - les informations de cette région ont été éclatées arbitrairement entre les départements, l'ARS ne communiquant pas les informations détaillées
-  * Bretagne (jusqu'au 11 mars)
+  * Bretagne (jusqu'au 12 mars)
   * PACA (jusqu'au 10 mars)
   * Centre-Val de Loire (jusqu'au 11 mars)
   * Auvergne-Rhône-Alpes (jusqu'au 10 mars)
-  * Outre-mer (jusqu'au 9 mars)
+  * Outre-mer (jusqu'au 12 mars)
   * Grand-Est (jusqu'au 10 mars)
 
 Il est fourni sans garantie et peut contenir des erreurs ou omissions.
@@ -49,6 +49,12 @@ Les années de naissance sont calculées selon la formule suivante : (2020 - âg
 ## Kaggle
 
 Le dataset du présent repository est également recopié sur Kaggle pour permettre des travaux de visualisation et d'analyse des données : https://www.kaggle.com/lperez/coronavirus-france-dataset
+
+## Utilitaires
+
+Trois utilitaires permettant de faciliter le travail de consolidation des
+données France de la pandémie COVID-19 se trouvent dans le projet suivant :
+[Git Repo for coronavirus-france-utils](https://github.com/SamAstro/coronavirus-france-utils)
 
 ## Remerciements
 
