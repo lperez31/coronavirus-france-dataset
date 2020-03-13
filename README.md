@@ -15,7 +15,7 @@ Le dataset n'est pas encore complet. Il contient les données pour les régions 
   * Normandie (jusqu'au 9 mars)
   * Pays de la Loire (jusqu'au 9)
   * Bourgogne Franche Comté (jusqu'au 11 mars) - les informations de cette région ont été éclatées arbitrairement entre les départements, l'ARS ne communiquant pas les informations détaillées
-  * Bretagne (jusqu'au 12 mars)
+  * Bretagne (jusqu'au 13 mars)
   * PACA (jusqu'au 10 mars)
   * Centre-Val de Loire (jusqu'au 11 mars)
   * Auvergne-Rhône-Alpes (jusqu'au 10 mars)
