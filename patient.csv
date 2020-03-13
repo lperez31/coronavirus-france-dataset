@@ -690,7 +690,7 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Bretagne,Ille-et-Vilaine,,,,,,,2020-03-09,,,,,CP ARS Bretagne,
 ,,,France,Bretagne,Ille-et-Vilaine,,,,,,,2020-03-09,,,,,CP ARS Bretagne,
 ,female,,France,Saint-Martin,Saint-Martin,Saint-Martin,,,,,,2020-03-01,,,,,CP ARS Guadeloupe,
-,male,,France,Saint-Martin,Saint-Martin,Saint-Martin,,,,,,2020-03-01,,,,,CP ARS Guadeloupe,
+,male,,France,Saint-Martin,Saint-Martin,Saint-Martin,,,,,,2020-03-01,,,,cured,CP ARS Guadeloupe,
 ,male,,France,Saint-Barthélémy,Saint-Barthélémy,Saint-Barthélémy,,,,,,2020-03-01,,,,,CP ARS Guadeloupe,
 ,,,France,Guyane,Guyane,Saint-Laurent du Maroni,Mulhouse Gathering,,,,,2020-03-04,,,,,Source France1ere,
 ,,,France,Guyane,Guyane,Saint-Laurent du Maroni,Mulhouse Gathering,,,,,2020-03-04,,,,,Source France1ere,
@@ -1969,3 +1969,9 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,La Reunion,La Reunion,,,,,,,2020-03-12,,,hospital,,CP ARS La Reunion,
 ,,,France,La Reunion,La Reunion,,,,,,,2020-03-12,,,hospital,,CP ARS La Reunion,
 ,,,France,La Reunion,La Reunion,,,,,,,2020-03-12,,,hospital,,CP ARS La Reunion,
+,male,1960,France,Martinique,Martinique,,,,,,,2020-03-11,,,,,La 1ère - Francetvinfo,en provenance du département de l'Essonne en région parisienne
+,,,France,Martinique,Martinique,,,,,,,2020-03-12,,,,,CP ARS Martinique,
+,,,France,Martinique,Martinique,,,,,,,2020-03-12,,,,,CP ARS Martinique,
+,,,France,La Reunion,La Reunion,,,,,,,2020-03-13,,,hospital,,CP ARS La Reunion,
+,female,1984,France,Guadeloupe,Guadeloupe,,,,,,,2020-03-13,,,home isolation,,CP ARS et Prefecture Guadeloupe,
+,,,France,Guyane,Guyane,,,,,,,2020-03-13,,,,,Donnée Santé Public France,
