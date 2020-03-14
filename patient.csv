@@ -177,7 +177,7 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,male,,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,released,,CP ARS PACA,
 ,male,,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
 ,male,,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
-,female,,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
+,female,1957,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,deceased,,CP ARS PACA,
 ,female,,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
 ,female,,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
 ,female,,France,PACA,Alpes-Maritimes,Nice,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
@@ -209,6 +209,10 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-12,,,hospital,,CP ARS PACA,
 ,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-12,,,hospital,,CP ARS PACA,
 ,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-12,,,hospital,,CP ARS PACA,
+,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Alpes-Maritimes,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
 ,female,,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 4,,,,,2020-03-04,,,hospital,,CP ARS PACA,parent
 ,male,,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 4,,,,,2020-03-04,,,hospital,,CP ARS PACA,parent
 ,,2010,France,PACA,Bouches-du-Rhône,Marseille,Marseille family 4,,,,,2020-03-04,,,hospital,,CP ARS PACA,child in elementary school : CM1 school Bensa in Marseille. Birth year approximative.
@@ -276,6 +280,32 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-12,,,hospital,,CP ARS PACA,
 ,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-12,,,hospital,,CP ARS PACA,
 ,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-12,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Bouches-du-Rhône,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
 ,male,,France,PACA,Hautes-Alpes,Briançon,,,,,,2020-03-07,,,hospital,,CP ARS PACA,policier
 ,male,,France,PACA,Hautes-Alpes,Briançon,,visit to Mulhouse,,,,2020-03-07,,,hospital,,CP ARS PACA,pretre evangélique
 ,male,,France,PACA,Hautes-Alpes,Bernwiller ,,,,,,2020-03-07,,,hospital,,CP ARS PACA,médecin
@@ -291,6 +321,9 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-10,,,hospital,,CP ARS PACA,
 ,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-12,,,hospital,,CP ARS PACA,
 ,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-12,,,hospital,,CP ARS PACA,
+,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Hautes-Alpes,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
 ,female,,France,PACA,Var,Six-Four-les-Plages,,visit to Lombardy,,,,2020-03-06,,,hospital,,CP ARS PACA,
 ,female,2009,France,PACA,Var,Six-Four-les-Plages,,visit to Mulhouse,,,,2020-03-07,,,hospital,,CP ARS PACA,
 ,,,France,PACA,Var,Six-Four-les-Plages,,parishioner,,,,2020-03-07,,,hospital,,CP ARS PACA,
@@ -306,13 +339,39 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,PACA,Var,Sanary,,,,,,2020-03-11,,,hospital,,CP ARS PACA,policier
 ,male,,France,PACA,Var,Sanary,,,,,,2020-03-12,,,hospital,,CP ARS PACA,policier
 ,female,1998,France,PACA,Var,La Garde,,,,,,2020-03-12,,,hospital,,CP ARS PACA,student at Toulon university
+,male,,France,PACA,Var,La Garde,,,,,,2020-03-12,,,hospital,,CP ARS PACA,Prof at Toulon university
 ,,,France,PACA,Var,,,,,,,2020-03-12,,,hospital,,CP ARS PACA,
 ,,,France,PACA,Var,,,,,,,2020-03-12,,,hospital,,CP ARS PACA,
 ,,,France,PACA,Var,,,,,,,2020-03-12,,,hospital,,CP ARS PACA,
 ,,,France,PACA,Var,,,,,,,2020-03-12,,,hospital,,CP ARS PACA,
 ,,,France,PACA,Var,,,,,,,2020-03-12,,,hospital,,CP ARS PACA,
 ,,,France,PACA,Var,,,,,,,2020-03-12,,,hospital,,CP ARS PACA,
-,,,France,PACA,Var,,,,,,,2020-03-12,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,Sanary,,,,,,2020-03-13,,,hospital,,CP ARS PACA,policeman
+,,,France,PACA,Var,Sanary,,,,,,2020-03-13,,,hospital,,CP ARS PACA,policeman
+,,,France,PACA,Var,Sanary,,,,,,2020-03-13,,,hospital,,CP ARS PACA,policeman
+,,,France,PACA,Var,Sanary,,,,,,2020-03-13,,,hospital,,CP ARS PACA,policeman
+,,,France,PACA,Var,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
+,,,France,PACA,Var,,,,,,,2020-03-13,,,hospital,,CP ARS PACA,
 ,male,1951,France,PACA,Vaucluse,,,,,,,2020-03-11,,,hospital,,CP ARS PACA,hospitalized in Marseille
 ,,,France,PACA,Vaucluse,Avignon,,,,,,2020-03-05,,,released,,CP ARS PACA,
 ,,,France,PACA,Vaucluse,,,,,,,2020-03-07,,,hospital,,CP ARS PACA,
@@ -2012,3 +2071,4 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,La Reunion,La Reunion,,,,,,,2020-03-13,,,hospital,,CP ARS La Reunion,
 ,female,1984,France,Guadeloupe,Guadeloupe,,,,,,,2020-03-13,,,home isolation,,CP ARS et Prefecture Guadeloupe,
 ,,,France,Guyane,Guyane,,,,,,,2020-03-13,,,,,Donnée Santé Public France,
+ ,,,,,,,,,,,,,,,,,,
