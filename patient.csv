@@ -750,7 +750,7 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Bretagne,Ille-et-Vilaine,,,,,,,2020-03-09,,,,,CP ARS Bretagne,
 ,female,,France,Saint-Martin,Saint-Martin,Saint-Martin,,,,,,2020-03-01,,,,,CP ARS Guadeloupe,
 ,male,,France,Saint-Martin,Saint-Martin,Saint-Martin,,,,,,2020-03-01,,,,cured,CP ARS Guadeloupe,
-,male,,France,Saint-Barthélémy,Saint-Barthélémy,Saint-Barthélémy,,,,,,2020-03-01,,,,,CP ARS Guadeloupe,
+,male,,France,Saint-Barthélemy,Saint-Barthélemy,Saint-Barthélemy,,,,,,2020-03-01,,,,,CP ARS Guadeloupe,
 ,,,France,Guyane,Guyane,Saint-Laurent du Maroni,Mulhouse Gathering,,,,,2020-03-04,,,,,Source France1ere,
 ,,,France,Guyane,Guyane,Saint-Laurent du Maroni,Mulhouse Gathering,,,,,2020-03-04,,,,,Source France1ere,
 ,,,France,Guyane,Guyane,Saint-Laurent du Maroni,Mulhouse Gathering,,,,,2020-03-04,,,,,Source France1ere,
