@@ -1996,7 +1996,7 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Occitanie,Gers,,,,,,,2020-03-11,,,,,O18 – Bulletin d’information ARS Occitanie,
 ,,,France,Occitanie,Gers,,,,,,,2020-03-11,,,,,O18 – Bulletin d’information ARS Occitanie,
 ,,,France,Occitanie,Hautes-Pyrénées,,,,,,,2020-03-11,,,,,O18 – Bulletin d’information ARS Occitanie,
-,,,France,Bretagne,Cote-d-Armor,,,,,,,2020-03-12,,,,,CP ARS et Prefecture Cote d Armor,
+,,,France,Bretagne,Côtes-d'Armor,,,,,,,2020-03-12,,,,,CP ARS et Prefecture Cote d Armor,
 ,,,France,Bretagne,Ille-et-Vilaine,Bruz,cluster Bruz,,,,,2020-03-11,,,,,CP ARS Bretagne,
 ,,,France,Bretagne,Ille-et-Vilaine,Bruz,cluster Bruz,,,,,2020-03-11,,,,,CP ARS Bretagne,
 ,,,France,Bretagne,Ille-et-Vilaine,Bruz,cluster Bruz,,,,,2020-03-11,,,,,CP ARS Bretagne,
@@ -2024,10 +2024,10 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,,,France,Bretagne,Morbihan,,,,,,,2020-03-12,,,,,CP ARS Bretagne,
 ,,,France,Bretagne,Morbihan,,,,,,,2020-03-12,,,,,CP ARS Bretagne,
 ,female,1969,France,Martinique,Martinique,Trinite,,,,,,2020-03-09,,,,,CP ARS Martinique,Probable lien avec le cluster de Mulhouse
-,male,1940,France,La Reunion,La Reunion,,,,,,,2020-03-11,,,hospital,,CP ARS La Reunion,
-,,,France,La Reunion,La Reunion,,,,,,,2020-03-12,,,hospital,,CP ARS La Reunion,
-,,,France,La Reunion,La Reunion,,,,,,,2020-03-12,,,hospital,,CP ARS La Reunion,
-,,,France,La Reunion,La Reunion,,,,,,,2020-03-12,,,hospital,,CP ARS La Reunion,
+,male,1940,France,La Réunion,La Réunion,,,,,,,2020-03-11,,,hospital,,CP ARS La Réunion,
+,,,France,La Réunion,La Réunion,,,,,,,2020-03-12,,,hospital,,CP ARS La Réunion,
+,,,France,La Réunion,La Réunion,,,,,,,2020-03-12,,,hospital,,CP ARS La Réunion,
+,,,France,La Réunion,La Réunion,,,,,,,2020-03-12,,,hospital,,CP ARS La Réunion,
 ,,,France,Bretagne,Morbihan,,,,,,,2020-03-13,,,,,CP Prefecture Morbihan,"6 nouveaux cas confirmés viennent s'ajouter à ceux déjà recensés dans la zone de circulation active du virus constituée par les clusters à ceux déjà recensés dans la zone de circulation active du virus constituée par les clusters d’Auray-Crac'h-Brec'h-Carnac-Saint-Philibert-Saint-Anne-d'Auray, Landévant, Pluvigner, La Trinité-sur-Mer et de Saint-Pierre Quiberon"
 ,,,France,Bretagne,Morbihan,,,,,,,2020-03-13,,,,,CP Prefecture Morbihan,"6 nouveaux cas confirmés viennent s'ajouter à ceux déjà recensés dans la zone de circulation active du virus constituée par les clusters à ceux déjà recensés dans la zone de circulation active du virus constituée par les clusters d’Auray-Crac'h-Brec'h-Carnac-Saint-Philibert-Saint-Anne-d'Auray, Landévant, Pluvigner, La Trinité-sur-Mer et de Saint-Pierre Quiberon"
 ,,,France,Bretagne,Morbihan,,,,,,,2020-03-13,,,,,CP Prefecture Morbihan,"6 nouveaux cas confirmés viennent s'ajouter à ceux déjà recensés dans la zone de circulation active du virus constituée par les clusters à ceux déjà recensés dans la zone de circulation active du virus constituée par les clusters d’Auray-Crac'h-Brec'h-Carnac-Saint-Philibert-Saint-Anne-d'Auray, Landévant, Pluvigner, La Trinité-sur-Mer et de Saint-Pierre Quiberon"
@@ -2068,7 +2068,7 @@ id,sex,birth_year,country,region,departement,city,group,infection_reason,infecti
 ,male,1960,France,Martinique,Martinique,,,,,,,2020-03-11,,,,,La 1ère - Francetvinfo,en provenance du département de l'Essonne en région parisienne
 ,,,France,Martinique,Martinique,,,,,,,2020-03-12,,,,,CP ARS Martinique,
 ,,,France,Martinique,Martinique,,,,,,,2020-03-12,,,,,CP ARS Martinique,
-,,,France,La Reunion,La Reunion,,,,,,,2020-03-13,,,hospital,,CP ARS La Reunion,
+,,,France,La Réunion,La Réunion,,,,,,,2020-03-13,,,hospital,,CP ARS La Réunion,
 ,female,1984,France,Guadeloupe,Guadeloupe,,,,,,,2020-03-13,,,home isolation,,CP ARS et Prefecture Guadeloupe,
 ,,,France,Guyane,Guyane,,,,,,,2020-03-13,,,,,Donnée Santé Public France,
  ,,,,,,,,,,,,,,,,,,
