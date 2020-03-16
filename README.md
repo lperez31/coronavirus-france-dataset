@@ -10,7 +10,7 @@ Une visualisation des données [est disponible en cliquant ici](https://app.powe
 
 Deux fichiers relatifs à l'épidémie de COVID-19 en France :
   * **deceased.csv** : données individuelles de chaque patient décédé. Ce fichier est en cours de mise à jour.
-  * **patients.csv** : données individuelles de chaque patient. Ce fichier n'est plus mis à jour depuis le 13 mars 2020, les données sont dorénavant consolidées de manière globale par département et région dans [ce repository](https://github.com/opencovid19-fr).
+  * **patients.csv** : données individuelles de chaque patient. Ce fichier n'est plus mis à jour depuis le 13 mars 2020, les données sont dorénavant consolidées de manière globale par département et région dans [ce repository](https://github.com/opencovid19-fr/data).
 
 ## Disclaimer
 
