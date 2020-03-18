@@ -1,6 +1,8 @@
 # Coronavirus COVID-19 - France dataset
 
-**Ce projet a besoin de contributeurs. Aidez-nous à maintenir ce dataset à jour. Nous avons besoin d'un contributeur pour chaque région française.**
+**Ce projet a rejoint un groupe de projets data COVID-19. Nous essayons de coordonner les actions. Si vous voulez aider, rendez-vous [ici](https://bzg.fr/covid19-developpeurs-datascientistes-comment-aider/).**
+
+**Seul le fichier deceased.csv contenant les données individuelles de décès est encore mis à jour. Les données de l'ensemble des patients sont dorénavant consolidées au niveau départemental / régional sur [ce repo](https://github.com/opencovid19-fr/data).**
 
 ## Visualisation
 
